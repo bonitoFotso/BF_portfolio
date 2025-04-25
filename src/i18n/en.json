@@ -1,0 +1,173 @@
+{
+  "site": {
+    "title": "Fotso Fotso Mossi Bonito | Web & Mobile Developer",
+    "description": "Full-stack developer specialized in React, TypeScript, Flutter and Django. Discover my projects and skills."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Fotso Fotso Mossi Bonito",
+    "greeting": "Hello, I'm",
+    "title": "Full-stack Developer",
+    "subtitle": "Specialized in creating innovative web and mobile solutions with React, TypeScript, Flutter and Django. Based in Douala, Cameroon.",
+    "scrollDown": "Explore",
+    "cta": {
+      "projects": "View My Projects",
+      "contact": "Get In Touch"
+    },
+    "switchMode": "Change display mode",
+    "terminalAbout": "Full-stack developer passionate about creating innovative digital solutions. Specializing in React, Flutter, and Django with over 3 years of professional experience.",
+    "interactive": {
+      "title": "What would you like to know?",
+      "viewProjects": "View Projects",
+      "projectsDesc": "Discover my recent work and achievements",
+      "skills": "Technical Skills",
+      "skillsDesc": "Technologies and methodologies I master",
+      "about": "About Me",
+      "aboutDesc": "My story and professional journey",
+      "contact": "Let's Talk",
+      "contactDesc": "How to reach me for collaborations"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Get to know me better",
+    "intro": "I am Fotso Fotso Mossi Bonito, a passionate web and mobile developer with a strong focus on creating elegant and efficient solutions to complex problems.",
+    "background": "My journey in technology began with my studies in Industrial Computing and Automation at EST La Salle, followed by a Bachelor's degree in Software Engineering at IUT Douala. With experience across multiple domains including network management, access control systems, and web/mobile development, I bring a versatile perspective to every project.",
+    "philosophy": "I believe in creating software that not only functions flawlessly but also delivers exceptional user experiences. My approach combines technical precision with creative problem-solving to build solutions that stand the test of time.",
+    "conclusion": "As I continue to grow professionally, I remain dedicated to expanding my knowledge and skills while helping businesses and organizations achieve their goals through innovative technology solutions.",
+    "personal_quote": "Technology should simplify life, not complicate it. I strive to create solutions that make a real difference.",
+    "profile_alt": "Fotso Fotso Mossi Bonito",
+    "journey": {
+      "education": "Educational Background",
+      "professional": "Professional Philosophy"
+    },
+    "metrics": {
+      "years": "Years Experience",
+      "projects": "Projects Completed",
+      "clients": "Happy Clients"
+    },
+    "bio": {
+      "part1": "I am Fotso Fotso Mossi Bonito, a passionate web and mobile developer with a strong focus on creating elegant and efficient solutions to complex problems.",
+      "part2": "My journey in technology began with my studies in Industrial Computing and Automation at EST La Salle, followed by a Bachelor's degree in Software Engineering at IUT Douala.",
+      "part3": "With experience across multiple domains including network management, access control systems, and web/mobile development, I bring a versatile perspective to every project."
+    },
+    "values": {
+      "title": "My Professional Values",
+      "continuous_learning": "Continuous Learning",
+      "continuous_learning_desc": "Constantly expanding my knowledge and skills to stay at the cutting edge of technology.",
+      "problem_solving": "Problem Solving",
+      "problem_solving_desc": "Finding elegant solutions to complex problems through creative thinking and thorough analysis.",
+      "attention_to_detail": "Attention to Detail",
+      "attention_to_detail_desc": "Focusing on the smallest details to ensure high-quality, polished final products.",
+      "collaboration": "Collaboration",
+      "collaboration_desc": "Working effectively with teams to achieve shared goals and create better outcomes."
+    }
+  },
+  "skills": {
+    "title": "Technical Skills",
+    "subtitle": "A comprehensive overview of my technological expertise and professional capabilities.",
+    "categories": {
+      "all": "All Skills",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "devops": "DevOps & CI/CD",
+      "other": "Networks & Security"
+    },
+    "year": "year",
+    "years": "years",
+    "details": {
+      "expertise": "Level of Expertise",
+      "expert": "Expert - Advanced knowledge with years of experience",
+      "advanced": "Advanced - Strong understanding and efficient implementation",
+      "intermediate": "Intermediate - Good working knowledge and experience",
+      "beginner": "Beginner - Basic understanding and implementation"
+    },
+    "techTree": {
+      "title": "My Skill Ecosystem"
+    },
+    "learning": {
+      "title": "Currently Learning",
+      "subtitle": "I believe in continuous growth. Here are some technologies and skills I'm currently developing."
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "My journey through various professional roles and projects that have shaped my expertise.",
+    "present": "Present",
+    "year": "year",
+    "years": "years",
+    "month": "month",
+    "months": "months",
+    "keyAchievements": "Key Achievements"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic background and continuous learning journey.",
+    "achievements": "Achievements",
+    "additionalCertifications": "Additional Certifications",
+    "certifications": {
+      "programming": "Web Development Fundamentals",
+      "network": "Network and Security Systems"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Here are some of the notable projects I've worked on that showcase my technical abilities and problem-solving approach.",
+    "filters": {
+      "all": "All Projects",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile"
+    },
+    "viewDetails": "View Details",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "impact": "Impact",
+    "viewCode": "View Code",
+    "liveSite": "Live Demo"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "I'm always open to new opportunities and collaborations. Feel free to reach out!",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Me a Message",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "socialMedia": "Social Media",
+    "downloadCV": "Download CV",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Your message has been sent successfully. I'll get back to you soon!",
+      "errorMessage": "There was an error sending your message. Please try again later."
+    },
+    "errors": {
+      "nameRequired": "Please enter your name",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email address",
+      "subjectRequired": "Please enter a subject",
+      "messageRequired": "Please enter your message",
+      "messageLength": "Your message should be at least 20 characters long"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Fotso Fotso Mossi Bonito. All rights reserved.",
+    "madeWith": "Made with",
+    "usingTech": "using React, TypeScript & Tailwind",
+    "backToTop": "Back to top"
+  }
+}

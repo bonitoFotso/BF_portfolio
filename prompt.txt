@@ -1,0 +1,4634 @@
+je m'appele Fotso Fotso mossi Bonito je suis developpeur web et mobile avec flutter react typescript et django
+j'ai eu mon bacc en 2020 au college progressif Ngouno a bonaberie douala littoral cameroun
+j'ai eu mon BTS en 2022 a l'EST La SALLE en Informatique industrielle et Automatisme
+puis ma Licence en 2023 a l'IUT de douala
+jai eu a effectuer  3 stages de de 3 moi chaqun a Innovation SARL une start up de la ville de douala spesialise dans le reseau , le controle d'acces, et la video surveillance puis dans le developpement web et est aussi un prestataire odoo au cameroun ces stage on ete effectuer en juin 2020, avril 2021 et mai 2022   puis j'ai fais un stage chez servitel la aussi specialiser dans le le reseau , le controle d'acces, et la video surveillance mais la mon stage etait en tant que developpeur web ca je faisai une licence en genie logiciel
+j'y ai notament develloper leur app de gestion de tache eune app cree pour aider le helpdesk a manager toute les equipe de technicien deployer cher les clients
+mon stage a dure un peur plus de 9 mois de mars 2023 a decembre 2023
+en mars 2024 j'ai commencer un stage accademique de 6 moi chez KES Africa ou ja'ai notament concue une app de generation d'etiquette avec des qrcode d'identification avec django et react puis une app de decodage de qrcode pour clacer les qrcode melanger apres impression et decoupe
+puis j'ai cree une app de generation d'atestation de formation toujour avec django et react puis une app de gestion de formation et des participatant a la formation ceci acec flutter et djangopuis mon stage academique c'est transformer en stage professionel
+et la ameliore l'app de generation d'attestation et jai rajouter la generation des titre d'abilitations
+et jai cree une app de generation d'etiquette d'igentification d'equipement.
+les ide que j'utilise sont vscode pycharm et webstorm sans oublieer android studio
+
+pendant mon stage chez innovation j'ai fais mes debut dans le domaine du reseaux du controle d'aces et de la videos surveillaice
+pendant mon stage chez servitel jj'ai continuer a faire aussi du reseaux du con trole d'acces et de la videosurveillence avec notament des les equipement de cher  hikvision dahau etc en paralle du developpement de l'app de gestion de stage
+pendant mon stage chez Kes Africa j'ai fais de la contenerisation et l'orquestration avec docker et docker compose , j'ai fais du cicd avec github hooks et github actions
+# Prompt amélioré pour générer un portfolio de développeur avec React, TypeScript et Shadcn UI ## Objectif principal
+
+Créer un portfolio professionnel captivant qui met en valeur mon expertise en développement web/mobile, reflète ma personnalité professionnelle et maximise l'engagement des recruteurs potentiels, avec un support bilingue complet français/anglais.
+## Contexte personnel et professionnel
+
+[Votre section actuelle sur l'identité et le parcours est excellente, je la conserve]
+## Vision pour le portfolio
+
+Je souhaite un portfolio qui :
+
+Présente mes projets de manière interactive et mémorable
+Démontre mes compétences techniques à travers l'interface même du portfolio
+Raconte mon parcours avec une narration cohérente
+Se distingue visuellement tout en restant professionnel
+Est optimisé pour la conversion (contact, téléchargement de CV)
+Offre une expérience entièrement bilingue français/anglais
+
+## Fonctionnalité multilingue ### Implémentation linguistique
+
+Sélecteur de langue visible et accessible en permanence (drapeau ou icône de globe)
+Conservation de la préférence linguistique dans le localStorage
+Détection automatique de la langue du navigateur pour la première visite
+Changement de langue sans rechargement de page
+URLs spécifiques par langue (/fr/projets, /en/projects)
+Métadonnées SEO adaptées à chaque langue
+
+### Structure de contenu bilingue
+
+Utilisation d'un système de traduction basé sur des fichiers JSON
+Organisation des traductions par sections et sous-sections
+Variables pour les éléments dynamiques
+Capacité d'avoir des contenus spécifiques par langue (pas juste des traductions directes)
+Support pour les différences de formatage (dates, nombres, unités)
+
+### Considérations culturelles
+
+Adaptation des exemples et références selon la langue/culture
+CV téléchargeable dans les deux langues avec formats adaptés
+Adaptation subtile du ton selon la langue (plus formel en français)
+Support des conventions typographiques spécifiques à chaque langue
+
+## Structure et sections spécifiques ### 1. Page d'accueil (Hero Section)
+
+Animation de texte type-writer avec ma signature "Fotso Fotso Mossi Bonito"
+Présentation concise en 2-3 phrases percutantes dans les deux langues
+CTA principal vers les projets et secondaire vers le contact
+Indicateurs visuels de mes technologies principales (icons animés)
+Photo professionnelle ou avatar stylisé (optionnel)
+Sélecteur de langue proéminent
+
+### 2. À propos de moi
+
+Histoire personnelle condensée en paragraphes impactants dans les deux langues
+Présentation de ma philosophie de développement
+Objectifs professionnels à court et moyen terme
+Valeurs principales qui définissent mon approche du travail
+Photo contextuelle (en situation professionnelle)
+Adaptation culturelle selon la langue sélectionnée
+
+### 3. Compétences techniques
+
+Segmentation par domaines (Frontend, Backend, DevOps, etc.)
+Visualisation graphique des niveaux d'expertise
+Badges interactifs pour chaque technologie avec années d'expérience
+Section "En cours d'apprentissage" pour montrer ma progression continue
+Possibilité de filtrer par domaine ou niveau
+Terminologie technique adaptée selon les conventions de chaque langue
+
+### 4. Projets (section centrale)
+
+Pour chaque projet:
+
+Titre accrocheur et description concise orientée résultats dans les deux langues
+Technologies utilisées avec badges visuels
+2-3 captures d'écran de haute qualité dans un carousel interactif
+Problématiques et solutions techniques spécifiques en français et anglais
+Métriques de réussite ou impact quantifiable
+Liens vers démo live et/ou code source (si disponible)
+Témoignage client ou superviseur dans la langue originale avec traduction
+
+### 5. Expérience professionnelle
+
+Timeline visuelle interactive avec animations au scroll
+Pour chaque expérience: logo entreprise, durée, poste, responsabilités clés (bilingue)
+Focus sur 2-3 accomplissements majeurs par poste
+Compétences acquises ou renforcées durant chaque expérience
+Liens vers les sites des entreprises
+Adaptation des titres de poste selon les conventions de chaque marché
+
+### 6. Formation
+
+Présentation chronologique inversée avec institutions et diplômes
+Mise en évidence des projets académiques significatifs
+Certifications professionnelles avec badges vérifiables
+Formations complémentaires pertinentes
+Équivalences internationales des diplômes mentionnées si nécessaire
+
+### 7. Contact
+
+Formulaire épuré avec validation en temps réel
+Messages de confirmation et d'erreur dans la langue active
+Intégration directe à un service d'emails (EmailJS, Formspree)
+Liens vers LinkedIn, GitHub, Twitter avec icônes animées
+Option de planification directe d'un appel via Calendly
+Localisation approximative (ville) avec carte interactive
+Indication des fuseaux horaires pour les contacts internationaux
+
+### 8. Blog/Ressources (optionnel)
+
+Articles techniques disponibles dans les deux langues
+Indication claire de la langue originale de rédaction
+Filtrage par catégories, tags et langue
+Temps de lecture estimé
+Option de partage sur réseaux sociaux
+Section commentaires avec modération
+Option pour proposer des traductions communautaires
+
+## Exigences techniques spécifiques ### Architecture et code
+
+Architecture basée sur des composants atomiques (Atomic Design)
+Système d'i18n robuste (react-i18next ou similaire)
+Hooks personnalisés pour la logique réutilisable
+Context API pour la gestion d'état globale incluant la langue
+Utilisation de TypeScript avec types stricts et support des traductions
+Tests unitaires pour les composants principaux (Jest/React Testing Library)
+Documentation des composants avec Storybook (optionnel)
+
+### Gestion des traductions
+
+Structure JSON organisée par modules fonctionnels
+Système de fallbacks pour les traductions manquantes
+Script d'extraction des chaînes à traduire
+Détection des traductions manquantes ou obsolètes
+Support de caractères spéciaux et adaptations typographiques
+Interface admin simple pour gérer les traductions (optionnel)
+
+### Performance et optimisation
+
+Mise en œuvre du Server-Side Rendering ou Static Site Generation
+Chargement optimisé des fichiers de traduction
+Optimisation des images avec next/image ou équivalent
+Stratégie de chargement progressif (skeleton loaders)
+Scores Lighthouse cibles: Performance (>90), Accessibilité (>95)
+Compression des assets et bundling optimisé
+Lazy loading et code splitting automatique
+
+### Animations et interactions
+
+Utilisation de Framer Motion pour des animations fluides
+Transitions de page personnalisées
+Animations déclenchées au scroll (Intersection Observer API)
+Micro-interactions sur les éléments interactifs
+Animations d'état (hover, focus, active) cohérentes
+Animation subtile lors du changement de langue
+
+### Accessibilité et UX
+
+Navigation au clavier complète et logique
+Support de lecteur d'écran (ARIA labels) dans les deux langues
+Contraste de couleurs conforme WCAG 2.1 niveau AA
+Messages d'erreur clairs et instructions préventives dans la langue active
+Adaptation aux préférences système (réduction de mouvement)
+Support des attributs lang appropriés pour chaque section
+
+## Style visuel détaillé ### Identité visuelle
+
+Palette principale:
+    Couleur primaire: #3B82F6 (bleu moderne)
+    Couleur secondaire: #8B5CF6 (violet accent)
+    Neutres: #1F2937 (texte principal), #F9FAFB (fond clair)
+Couleurs d'accent pour les catégories de projets
+Typographie:
+    Titres: "Inter" (poids: 700/600)
+    Corps de texte: "Inter" (poids: 400/300)
+    Espacement de lignes aéré (1.6)
+    Support complet des caractères français (accents, cédille, etc.)
+Iconographie: Lucide Icons avec animations subtiles
+Formes géométriques légères en arrière-plan
+Bordures arrondies cohérentes (border-radius: 8px)
+Indicateurs visuels subtils de la langue active
+
+### Composants personnalisés
+
+Sélecteur de langue élégant avec transition fluide
+Cartes de projet avec effet de profondeur au hover
+Boutons avec micro-animations
+Barres de progression stylisées pour les compétences
+Timeline interactive pour l'expérience professionnelle
+Sélecteurs de filtres cohérents avec l'identité visuelle
+Tooltips informatifs sur les éléments techniques (dans la langue active)
+
+## Demandes spécifiques pour le code
+
+Structure de fichiers claire et évolutive avec séparation des traductions
+Commentaires explicatifs pour les parties complexes (en anglais pour standardisation)
+Variables d'environnement pour les services externes
+Responsive design avec approche mobile-first
+SEO optimisé avec méta-tags dynamiques adaptés à chaque langue
+Configuration complète pour le déploiement sur Vercel avec support i18n
+Instructions détaillées pour personnaliser le contenu dans les deux langues
+Implémentation de Google Analytics ou Plausible (anonymisé) avec tracking de la langue
+
+## Livrables attendus
+
+Code source complet avec structure de projet optimale et support i18n
+Fichiers de traduction FR/EN complets et extensibles
+Readme détaillé avec instructions d'installation et personnalisation (bilingue)
+Guide de déploiement étape par étape
+Documentation des composants et fonctionnalités
+Guide pour l'ajout de nouvelles langues
+Suggestions pour l'amélioration continue du portfolio
+
+En suivant ces spécifications détaillées, je souhaite obtenir un portfolio distinctif qui met en valeur mes compétences techniques tout en offrant une expérience utilisateur mémorable et adaptée culturellement aux visiteurs francophones et anglophones.
+
+    Éléments visuels et interactifs Thème visuel cohérent basé sur votre personnalité
+
+Métaphore du "code comme art" : Interface inspirée de l'art numérique où vos compétences sont représentées comme des œuvres d'art interactives
+Thème spatial : Navigation entre les sections comme un voyage entre différentes planètes/constellations, chaque projet étant une planète avec son propre écosystème
+Interface inspirée de l'électronique : Design évoquant des circuits imprimés avec animations de flux de données entre les sections
+
+Interactions uniques
+
+Curseur personnalisé qui change de forme selon la section ou l'élément survolé
+Navigation par carte interactive : représentation de votre parcours comme une carte où les projets sont des points d'intérêt à explorer
+Parallaxe 3D subtil qui donne une profondeur aux éléments lorsque l'utilisateur déplace sa souris
+
+    Présentations de projets innovantes Démonstrations interactives
+
+Mini-terminal intégré permettant aux visiteurs d'explorer vos projets via des commandes (help, list-projects, show-project 1, etc.)
+Simulateur simplifié de certaines fonctionnalités de vos projets directement dans le portfolio
+Visite guidée interactive de vos projets avec narration et points clés mis en évidence
+
+Visualisations techniques
+
+Graphes de dépendances montrant les relations entre les technologies utilisées dans vos projets
+Timelapse vidéo du développement d'un projet (captures d'écran progressives)
+Vue éclatée des architectures de vos projets (comme un diagramme technique 3D interactif)
+
+    Éléments narratifs distinctifs Storytelling personnel
+
+Journal de développeur avec entrées datées qui racontent votre évolution professionnelle
+"Un jour dans ma vie" : Timeline interactive montrant votre routine quotidienne de développeur
+Parcours d'apprentissage visualisé sous forme d'arbre de compétences évolutif
+
+Éléments autobiographiques créatifs
+
+Carte du Cameroun interactive montrant votre parcours géographique et professionnel
+"Digital DNA" : Représentation visuelle de votre identité de développeur sous forme d'hélice ADN où chaque segment représente une compétence/expérience
+Musée virtuel de votre parcours avec "salles" thématiques (formation, projets, expériences)
+
+    Fonctionnalités techniques différenciatrices Intelligence artificielle et personnalisation
+
+Assistant IA qui guide les visiteurs selon leurs intérêts (ex: "Je cherche un développeur Flutter")
+Recommandation de projets basée sur le comportement du visiteur sur le site
+Génération de questions personnalisées pour engager la conversation via votre formulaire de contact
+
+Gamification subtile
+
+Système de "découverte" où certains easter eggs et contenus sont révélés par des interactions spécifiques
+Badges/achievements débloqués par les visiteurs qui explorent en profondeur votre portfolio
+Quiz interactif sur les technologies que vous maîtrisez, avec explications pédagogiques
+
+    Touches personnelles authentiques Éléments culturels intégrés
+
+Motifs ou couleurs inspirés du design camerounais contemporain comme élément visuel distinctif
+Expressions ou proverbes locaux (avec traductions) illustrant votre philosophie de développement
+Cartographie de votre parcours entre tradition et modernité technologique
+
+Passions et intérêts personnels
+
+Fusion de vos hobbies avec votre présentation technique (par exemple, si vous aimez la musique, visualiser vos compétences comme un équaliseur audio)
+Métaphores visuelles tirées de vos centres d'intérêt pour illustrer votre approche du développement
+Petites animations personnalisées reflétant votre personnalité dans les transitions
+
+    Éléments techniques avancés Visualisations de données créatives
+
+GitHub contributions en 3D montrant l'évolution de votre activité de codage
+Radar chart animé de vos compétences techniques avec des transitions fluides entre catégories
+Nuage de mots dynamique formé par les technologies que vous utilisez, redimensionné selon l'expertise
+
+Performances techniques impressionnantes
+
+Mode "benchmark" qui montre les performances d'optimisation de votre portfolio (temps de chargement, animations fluides)
+Démonstration WebGL intégrée montrant un mini-projet 3D interactif
+"View source" stylisé permettant d'explorer le code bien structuré de votre portfolio
+
+    Touches d'originalité mémorables Éléments ludiques mais professionnels
+
+Mode "rétro" qui transforme temporairement votre portfolio en interface style années 90/terminal
+Easteregg activable par une séquence de touches (style Konami code) qui déclenche une animation surprise
+Thème "jour/nuit" avec transition spectaculaire et illustrations différentes selon le mode
+
+Approches innovantes pour les sections classiques
+
+CV interactif façon "timeline" où chaque expérience se déploie avec des détails au clic
+Compétences techniques visualisées comme un "arbre de talent" évolutif
+Témoignages présentés comme des messages de chat avec animations de typing
+
+Concepts d'interface non conventionnels
+Navigation immersive
+
+Interface "laboratoire digital" : les visiteurs explorent votre portfolio comme un laboratoire où chaque projet est une expérience interactive
+Métaphore du "voyage en train" : défilement horizontal avec des "stations" représentant différentes étapes de votre parcours
+Portfolio en perspective isométrique : vue d'ensemble de vos compétences et projets comme une ville ou un campus universitaire navigable
+
+Modes d'interaction innovants
+
+Commande vocale intégrée pour naviguer entre les sections (avec fallback visuel)
+Navigation par gestes détectés par webcam (option désactivable)
+Mode "présentation guidée" qui fait une visite automatique de votre portfolio comme si vous le présentiez personnellement
+
+    Présentations de projet distinctives Formats narratifs originaux
+
+"Problème → Solution → Impact" : format visuel distinctif pour chaque projet avec animation séquentielle
+"Avant/Après" interactif montrant l'évolution de vos projets avec curseur de comparaison
+"Case studies" format documentaire avec introduction, enjeux, processus et résultats
+
+Démonstrations techniques
+
+Snippets de code animés montrant vos solutions techniques les plus élégantes
+Prototypes interactifs simplifiés directement utilisables dans le portfolio
+Diagrammes d'architecture animés révélant progressivement la complexité de vos projets
+
+    Éléments autobiographiques distinctifs Parcours d'apprentissage visualisé
+
+"Tech tree" personnalisé inspiré des jeux vidéo montrant votre progression de compétences
+"Jardin de connaissances" où chaque technologie est une plante qui grandit selon votre niveau
+Ligne temporelle non-linéaire montrant les connexions entre expériences et compétences
+
+Identité visuelle forte
+
+Signature visuelle animée comme fil conducteur entre les sections
+Leitmotiv graphique inspiré d'un élément personnel significatif (intérêt, héritage culturel)
+Personnage/avatar représentant différentes facettes de votre expertise professionnelle
+
+    Fonctionnalités techniques impressionnantes Analyses de code en direct
+
+Visualiseur d'algorithmes montrant le fonctionnement de vos solutions techniques
+"Code stories" : extraits de code annotés expliquant votre processus de pensée
+Démos de performance comparant vos optimisations avant/après
+
+Expériences interactives
+
+Mini-jeu thématique lié à vos compétences ou secteurs d'activité
+Générateur de projet personnalisé où les visiteurs définissent des paramètres et voient comment vous aborderiez leur projet
+Simulateur de collaboration montrant votre méthode de travail en équipe
+
+    Touches culturelles et personnelles Fusion tradition-technologie
+
+Patterns traditionnels camerounais transformés en animations génératives
+Proverbes locaux illustrés par des métaphores visuelles technologiques
+Cartographie de votre parcours entre tradition et modernité numérique
+
+Expression artistique personnelle
+
+Illustrations originales représentant votre vision du développement
+Bande-son personnalisée reflétant l'ambiance de différentes sections
+Poésie ou mantras personnels intégrés subtilement dans le design
+
+    Fonctionnalités mémorables Interactions inattendues
+
+Effets physicalisés : éléments qui réagissent comme dans le monde réel (gravité, inertie)
+Interactions contextuelles : changements subtils d'interface selon l'heure du jour ou la saison
+"Mode concentration" qui simplifie progressivement l'interface pour les recruteurs pressés
+
+Outils intégrés uniques
+
+Calculatrice d'estimation de projet basée sur vos méthodes et expérience
+Visualiseur de compatibilité technologique pour montrer votre expertise relative
+"Digital handshake" : système créatif pour initier un premier contact professionnel
+
+    Approches conceptuelles innovantes Organisation non-traditionnelle
+
+Portfolio sous forme de "système solaire" où les projets sont des planètes en orbite autour de vos compétences centrales
+Métaphore de "l'atelier" où chaque outil représente une compétence que vous maîtrisez
+"Digital garden" où vos projets et idées sont présentés comme un écosystème interconnecté
+
+Présentations dynamiques
+
+Contenu qui s'adapte au profil professionnel détecté (développeur, designer, recruteur)
+Parcours personnalisés basés sur les intérêts indiqués en début de visite
+Mode "quick pitch" qui présente l'essentiel de votre profil en 60 secondes
+
+    Perspectives uniques sur votre travail Démonstrations de processus
+
+"Behind the scenes" montrant votre environnement et processus de travail
+Timelapse de développement de certains projets clés
+Journal de bord interactif avec les défis et solutions trouvées
+
+Réflexions professionnelles
+
+"Leçons apprises" partagées de manière visuelle et mémorable
+Visualisation de votre évolution technique année après année
+"Futur roadmap" montrant vos objectifs d'apprentissage et d'évolution
+Concepts innovants supplémentaires pour un portfolio véritablement distinctif
+
+Voici d'autres idées créatives et audacieuses pour faire de votre portfolio une expérience vraiment mémorable :
+
+    Concepts d'interface révolutionnaires
+    Métaphores visuelles immersives
+
+    "Digital Twin" : représentation virtuelle de vous-même qui guide les visiteurs à travers votre parcours
+    Laboratoire d'innovation : interface ressemblant à un espace de travail futuriste avec des "stations" pour chaque compétence
+    Carte cognitive : votre portfolio visualisé comme une carte mentale tridimensionnelle où les idées et projets sont interconnectés
+
+Interfaces contextuelles avancées
+
+Adaptation biométrique subtile : l'interface réagit au mouvement des yeux (via webcam opt-in) pour mettre en évidence ce qui intéresse le visiteur
+Interface "respirante" avec des éléments qui évoluent organiquement selon l'engagement de l'utilisateur
+Portfolio qui s'auto-organise selon les intérêts détectés par l'analyse du comportement du visiteur
+
+2. Narratifs professionnels distinctifs
+Storytelling innovant
+
+"Voyage héroïque du développeur" : présentation de votre parcours suivant le modèle du voyage du héros (Campbell)
+Format documentaire interactif avec interviews de collègues et clients (vidéo ou texte)
+Récit parallèle montrant simultanément votre évolution personnelle et l'évolution technologique
+
+Présentations conceptuelles
+
+"Si mes projets étaient..." : métaphores visuelles comparant vos projets à des éléments d'un thème cohérent (architecture, écosystèmes naturels, œuvres d'art)
+Portfolio comme "musée du futur" présentant vos réalisations comme des artefacts historiques avec leur contexte et impact
+"Alternate reality showcase" : présentation de vos projets comme s'ils avaient transformé le monde de façon significative
+
+3. Expériences techniques stupéfiantes
+Démos techniques intégrées
+
+Canvas générateur de code : visualisation artistique de vos algorithmes préférés en action
+"Code evolution" : visualisation de l'évolution de votre style de codage au fil du temps
+Simulateur d'architecture système permettant aux visiteurs de comprendre intuitivement vos solutions
+
+Interactions basées sur vos compétences
+
+Expériences WebGL personnalisées reflétant vos projets phares
+Mini-environnement de programmation pour tester des concepts simples liés à vos domaines d'expertise
+"Digital sandbox" où les visiteurs peuvent jouer avec des composants que vous avez créés
+
+4. Approches conceptuelles audacieuses
+Reconceptualisations du portfolio
+
+Interface "système d'exploitation personnel" avec des "applications" représentant différents aspects de votre travail
+"Digital twin" de votre environnement de travail où les visiteurs peuvent explorer vos outils et méthodes
+Portfolio comme "jeu sérieux" où les visiteurs "débloquent" progressivement votre histoire et vos compétences
+
+Formats de présentation non conventionnels
+
+"Reverse portfolio" commençant par votre vision future et remontant à vos origines
+Portfolio basé sur des scénarios : "Voici comment je résoudrais votre problème si vous étiez..."
+Interface conversationnelle guidant les visiteurs à travers un dialogue simulé avec vous
+
+5. Éléments d'authenticité approfondie
+Intégrations culturelles sophistiquées
+
+Fusion de symbolique camerounaise et d'interfaces futuristes créant un style visuel unique
+Interface bilingue conceptuelle où le français et l'anglais ne sont pas juste des traductions mais des expériences complémentaires
+Narration visuelle de votre parcours interculturel montrant comment vos origines influencent votre approche technique
+
+Perspectives personnelles uniques
+
+"Ma philosophie de développement" présentée comme un manifeste visuel interactif
+Journal de bord professionnel avec réflexions authentiques sur les défis surmontés
+"Digital memoir" combinant éléments professionnels et inspirations personnelles
+
+6. Fonctionnalités différenciatrices avancées
+Outils intégrés innovants
+
+"Challenge technique du jour" que les visiteurs peuvent essayer de résoudre
+Prototype de "pair programming" où les visiteurs peuvent collaborer virtuellement avec vous
+Générateur de "roadmap technologique" personnalisé basé sur les intérêts du visiteur
+
+Interactions sociales innovantes
+
+"Portfolio collaboratif" où d'anciens collègues ont contribué des témoignages interactifs
+Système de "mentoring virtuel" offrant des conseils basés sur votre expérience
+Espace "idéation partagée" où les visiteurs peuvent proposer des concepts à développer ensemble
+
+7. Présentations techniques distinctives
+Visualisations de compétences innovantes
+
+"Digital forge" où vos compétences sont représentées comme des outils que vous avez forgés
+Écosystème technique visualisant l'interdépendance de vos compétences comme un réseau vivant
+"Knowledge diffusion" montrant comment vos compétences se sont développées et influencées mutuellement
+
+Démonstrations de processus uniques
+
+"De l'idée au déploiement" : visualisation du cycle complet de développement de vos projets
+"Problem-solving patterns" : démonstration visuelle de votre approche face aux défis techniques
+"Technical archaeology" : exploration des couches de solutions que vous avez développées
+
+8. Concepts d'engagement mémorables
+Parcours personnalisés sophistiqués
+
+"Portfolio adaptatif" qui évolue selon les actions et intérêts du visiteur
+Expérience progressive se dévoilant par "niveaux" d'engagement
+"Digital shadowing" simulant une journée de travail à vos côtés
+
+Points de contact originaux
+
+"Consultation virtuelle" : simulation d'une première réunion professionnelle
+Calendrier interactif montrant votre disponibilité et processus d'engagement
+"Digital handshake" créatif pour établir un premier contact mémorable
+
+9. Touches singulières finales
+Détails mémorables
+
+import { Heart, ArrowUp } from 'lucide-react';
+import { useLanguage } from '../../hooks/useLanguage';
+import { motion } from 'framer-motion';
+
+const Footer: React.FC = () => {
+  const { t } = useLanguage();
+  const currentYear = new Date().getFullYear();
+  
+  // Scroll to top function
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  };
+  
+  return (
+    <footer className="py-8 border-t border-gray-200 dark:border-gray-800 bg-white/50 dark:bg-gray-900/50 backdrop-blur-sm">
+      <div className="container mx-auto px-4">
+        <div className="flex flex-col md:flex-row justify-between items-center">
+          <div className="flex flex-col items-center md:items-start mb-4 md:mb-0">
+            <span className="text-lg font-bold">Fotso.dev</span>
+            <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
+              {t('footer.copyright', { year: currentYear })}
+            </p>
+          </div>
+          
+          <div className="flex items-center">
+            <span className="text-sm text-gray-600 dark:text-gray-400 mr-2">
+              {t('footer.madeWith')}
+            </span>
+            <Heart size={16} className="text-red-500 animate-pulse" />
+            <span className="text-sm text-gray-600 dark:text-gray-400 ml-2">
+              {t('footer.usingTech')}
+            </span>
+          </div>
+          
+          <motion.button
+            onClick={scrollToTop}
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            className="mt-4 md:mt-0 p-3 rounded-full bg-primary/10 dark:bg-primary/20 text-primary hover:bg-primary/20 dark:hover:bg-primary/30 transition-colors"
+            aria-label={t('footer.backToTop')}
+          >
+            <ArrowUp size={20} />
+          </motion.button>
+        </div>
+      </div>
+    </footer>
+  );
+};
+
+export default Footer;
+
+import { useState, useEffect, useMemo, useCallback } from 'react';
+import { Menu, X, Globe, Moon, Sun, Code, Zap, Sparkles, ChevronDown } from 'lucide-react';
+import { motion, AnimatePresence, useMotionValue } from 'framer-motion';
+
+import { useTheme } from '../../context/ThemeContext';
+import { useLanguage } from '../../hooks/useLanguage';
+import { cn } from '../../utils/cn';
+
+interface HeaderProps {
+  activeSection?: string;
+}
+
+const Header = ({ activeSection: externalActiveSection }: HeaderProps) => {
+  const [isScrolled, setIsScrolled] = useState(false);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [activeSection, setActiveSection] = useState('home');
+  const [scrollDirection, setScrollDirection] = useState<'up' | 'down'>('up');
+  const [lastScrollY, setLastScrollY] = useState(0);
+  const { theme, setTheme } = useTheme();
+  const { t, language, toggleLanguage } = useLanguage();
+  const [showParticles, setShowParticles] = useState(false);
+
+  // Pour le curseur personnalisé
+  const mouseX = useMotionValue(0);
+  const mouseY = useMotionValue(0);
+
+  const navItems = useMemo(() => [
+    { label: t('nav.home'), href: '#home', icon: <Zap size={16} /> },
+    { label: t('nav.about'), href: '#about', icon: <Sparkles size={16} /> },
+    { label: t('nav.skills'), href: '#skills', icon: <Code size={16} /> },
+    { label: t('nav.projects'), href: '#projects' },
+    { label: t('nav.experience'), href: '#experience' },
+    { label: t('nav.education'), href: '#education' },
+    { label: t('nav.contact'), href: '#contact' },
+  ], [t]);
+
+  // Use external active section if provided
+  useEffect(() => {
+    if (externalActiveSection) {
+      setActiveSection(externalActiveSection);
+    }
+  }, [externalActiveSection]);
+
+  // Scroll direction detection and header visibility
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY;
+      
+      if (currentScrollY > lastScrollY && currentScrollY > 150) {
+        setScrollDirection('down');
+      } else {
+        setScrollDirection('up');
+      }
+      
+      if (currentScrollY > 50) {
+        setIsScrolled(true);
+      } else {
+        setIsScrolled(false);
+      }
+      
+      setLastScrollY(currentScrollY);
+    };
+
+    // Observer pour sections actives
+    const observerOptions = {
+      root: null,
+      rootMargin: '-20% 0px -80% 0px',
+      threshold: 0
+    };
+
+    const handleIntersect = (entries: IntersectionObserverEntry[]) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.getAttribute('id');
+          if (id && !externalActiveSection) setActiveSection(id);
+        }
+      });
+    };
+
+    const observer = new IntersectionObserver(handleIntersect, observerOptions);
+    
+    // Observer toutes les sections
+    navItems.forEach(item => {
+      const sectionId = item.href.replace('#', '');
+      const element = document.getElementById(sectionId);
+      if (element) observer.observe(element);
+    });
+
+    window.addEventListener('scroll', handleScroll);
+    
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      navItems.forEach(item => {
+        const sectionId = item.href.replace('#', '');
+        const element = document.getElementById(sectionId);
+        if (element) observer.unobserve(element);
+      });
+    };
+  }, [navItems, lastScrollY, externalActiveSection]);
+
+  // Effet pour suivre la position de la souris pour le curseur personnalisé
+  useEffect(() => {
+    const handleMouseMove = (e: { clientX: number; clientY: number; }) => {
+      mouseX.set(e.clientX);
+      mouseY.set(e.clientY);
+    };
+
+    window.addEventListener('mousemove', handleMouseMove);
+    return () => window.removeEventListener('mousemove', handleMouseMove);
+  }, [mouseX, mouseY]);
+
+  const toggleTheme = useCallback(() => {
+    setTheme(theme === 'light' ? 'dark' : 'light');
+    // Effet de particules lors du changement de thème
+    setShowParticles(true);
+    setTimeout(() => setShowParticles(false), 1000);
+  }, [theme, setTheme]);
+
+  const mobileLinkVariants = {
+    closed: { opacity: 0, y: 20 },
+    open: (i: number) => ({
+      opacity: 1,
+      y: 0,
+      transition: {
+        delay: i * 0.1,
+        duration: 0.3,
+      },
+    }),
+  };
+
+  // Animation pour le logo
+  const logoVariants = {
+    hover: {
+      scale: 1.05,
+      rotate: [0, -2, 2, -1, 1, 0],
+      transition: {
+        rotate: {
+          repeat: Infinity,
+          repeatType: "reverse",
+          duration: 2
+        }
+      }
+    }
+  };
+
+  // Scroll to section
+  const scrollToSection = useCallback((sectionId: string) => {
+    const element = document.getElementById(sectionId);
+    if (element) {
+      // Close mobile menu if open
+      setIsMobileMenuOpen(false);
+      
+      // Scroll to section with offset for header
+      const headerHeight = document.querySelector('header')?.offsetHeight || 0;
+      const elementPosition = element.getBoundingClientRect().top + window.scrollY;
+      const offsetPosition = elementPosition - headerHeight - 20;
+      
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    }
+  }, []);
+
+  return (
+    <>
+      {/* Curseur personnalisé */}
+      <motion.div 
+        className="fixed w-6 h-6 rounded-full border-2 border-primary pointer-events-none z-50 hidden md:block"
+        style={{ 
+          left: mouseX, 
+          top: mouseY,
+          x: "-50%",
+          y: "-50%"
+        }}
+      />
+
+      {/* Particules pour le changement de thème */}
+      <AnimatePresence>
+        {showParticles && (
+          <motion.div
+            initial={{ opacity: 1 }}
+            animate={{ opacity: 0 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 1 }}
+            className="fixed inset-0 pointer-events-none z-40"
+          >
+            {Array.from({ length: 30 }).map((_, i) => (
+              <motion.div
+                key={i}
+                initial={{ 
+                  x: window.innerWidth / 2, 
+                  y: window.innerHeight / 2,
+                  scale: 0
+                }}
+                animate={{ 
+                  x: window.innerWidth * Math.random(),
+                  y: window.innerHeight * Math.random(),
+                  scale: Math.random() * 3
+                }}
+                transition={{ duration: 1 }}
+                className={`absolute w-2 h-2 rounded-full ${theme === 'dark' ? 'bg-primary' : 'bg-primary-dark'}`}
+              />
+            ))}
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <motion.header
+        initial={{ y: 0 }}
+        animate={{ 
+          y: scrollDirection === 'down' && !isMobileMenuOpen ? -100 : 0,
+          opacity: 1
+        }}
+        transition={{ duration: 0.3 }}
+        className={cn(
+          'fixed top-0 left-0 right-0 z-50 transition-all duration-500 py-4 px-4 sm:px-6 lg:px-8',
+          isScrolled
+            ? 'bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm shadow-md'
+            : 'bg-transparent'
+        )}
+      >
+        <div className="container mx-auto flex items-center justify-between">
+          <motion.a 
+            href="#home" 
+            onClick={(e) => {
+              e.preventDefault();
+              scrollToSection('home');
+            }}
+            variants={logoVariants}
+            whileHover="hover"
+            className="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary transition-all duration-200 z-10"
+          >
+            <span className="relative inline-block">
+              Fotso.dev
+              <motion.span 
+                className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-primary to-secondary"
+                initial={{ width: "0%" }}
+                whileHover={{ width: "100%" }}
+                transition={{ duration: 0.3 }}
+              />
+            </span>
+          </motion.a>
+
+          <nav className="hidden md:flex items-center space-x-1">
+            {navItems.map((item) => (
+              <motion.a
+                key={item.href}
+                href={item.href}
+                onClick={(e) => {
+                  e.preventDefault();
+                  scrollToSection(item.href.replace('#', ''));
+                }}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className={cn(
+                  "px-3 py-2 text-sm font-medium rounded-md transition-all duration-300 flex items-center gap-1.5",
+                  activeSection === item.href.replace('#', '') 
+                    ? "text-primary dark:text-primary bg-primary/5 dark:bg-primary/10" 
+                    : "text-gray-700 dark:text-gray-200 hover:text-primary hover:bg-primary/5 dark:hover:text-primary dark:hover:bg-primary/10"
+                )}
+              >
+                {item.icon && (
+                  <span className={cn(
+                    activeSection === item.href.replace('#', '')
+                      ? "opacity-100" 
+                      : "opacity-70 group-hover:opacity-100"
+                  )}>
+                    {item.icon}
+                  </span>
+                )}
+                {item.label}
+              </motion.a>
+            ))}
+
+            <div className="flex items-center ml-4 pl-4 border-l border-gray-200 dark:border-gray-700 space-x-2">
+              <motion.button
+                whileHover={{ scale: 1.1, rotate: 10 }}
+                whileTap={{ scale: 0.9 }}
+                onClick={toggleLanguage}
+                aria-label={`Switch to ${language === 'en' ? 'French' : 'English'}`}
+                className="p-2 rounded-md text-gray-700 dark:text-gray-200 hover:text-primary dark:hover:text-primary transition-colors duration-200 flex items-center"
+              >
+                <Globe size={20} />
+                <span className="ml-1 text-xs font-medium">{language === 'en' ? 'FR' : 'EN'}</span>
+              </motion.button>
+
+              <motion.button
+                whileHover={{ scale: 1.1, rotate: 15 }}
+                whileTap={{ scale: 0.9 }}
+                onClick={toggleTheme}
+                aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
+                className="p-2 rounded-md text-gray-700 dark:text-gray-200 hover:text-primary dark:hover:text-primary transition-colors duration-200"
+              >
+                {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
+              </motion.button>
+            </div>
+          </nav>
+
+          <div className="flex items-center md:hidden space-x-2">
+            <motion.button
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.9 }}
+              onClick={toggleLanguage}
+              aria-label={`Switch to ${language === 'en' ? 'French' : 'English'}`}
+              className="p-2 rounded-md text-gray-700 dark:text-gray-200 hover:text-primary dark:hover:text-primary transition-colors duration-200"
+            >
+              <Globe size={20} />
+            </motion.button>
+
+            <motion.button
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.9 }}
+              onClick={toggleTheme}
+              aria-label={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
+              className="p-2 rounded-md text-gray-700 dark:text-gray-200 hover:text-primary dark:hover:text-primary transition-colors duration-200"
+            >
+              {theme === 'light' ? <Moon size={20} /> : <Sun size={20} />}
+            </motion.button>
+
+            <motion.button
+              whileHover={{ scale: 1.1 }}
+              whileTap={{ scale: 0.9 }}
+              onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+              aria-label="Toggle menu"
+              className="p-2 rounded-md text-gray-700 dark:text-gray-200 hover:text-primary dark:hover:text-primary transition-colors duration-200"
+            >
+              <AnimatePresence mode="wait" initial={false}>
+                <motion.div
+                  key={isMobileMenuOpen ? 'close' : 'open'}
+                  initial={{ rotate: -90, opacity: 0 }}
+                  animate={{ rotate: 0, opacity: 1 }}
+                  exit={{ rotate: 90, opacity: 0 }}
+                  transition={{ duration: 0.2 }}
+                >
+                  {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
+                </motion.div>
+              </AnimatePresence>
+            </motion.button>
+          </div>
+        </div>
+
+        <AnimatePresence>
+          {isMobileMenuOpen && (
+            <motion.div
+              initial={{ opacity: 0, height: 0 }}
+              animate={{ opacity: 1, height: 'auto' }}
+              exit={{ opacity: 0, height: 0 }}
+              transition={{ duration: 0.3 }}
+              className="md:hidden bg-white dark:bg-gray-900 shadow-lg rounded-b-lg mx-4 mt-2 overflow-hidden"
+            >
+              <div className="px-4 py-2 space-y-1">
+                {navItems.map((item, i) => (
+                  <motion.a
+                    key={item.href}
+                    href={item.href}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      scrollToSection(item.href.replace('#', ''));
+                    }}
+                    custom={i}
+                    variants={mobileLinkVariants}
+                    initial="closed"
+                    animate="open"
+                    className={cn(
+                      "flex py-2 px-3 text-base font-medium rounded-md transition-all duration-300 items-center gap-2",
+                      activeSection === item.href.replace('#', '') 
+                        ? "text-primary dark:text-primary bg-primary/5 dark:bg-primary/10" 
+                        : "text-gray-700 dark:text-gray-200 hover:text-primary hover:bg-primary/5 dark:hover:text-primary dark:hover:bg-primary/10"
+                    )}
+                  >
+                    {item.icon && <span>{item.icon}</span>}
+                    {item.label}
+                  </motion.a>
+                ))}
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+        
+        {/* Indicateur de section active - mobile uniquement */}
+        <AnimatePresence>
+          {isScrolled && !isMobileMenuOpen && (
+            <motion.div 
+              initial={{ opacity: 0, y: -20 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -20 }}
+              transition={{ duration: 0.3 }}
+              className="md:hidden absolute left-1/2 -bottom-8 transform -translate-x-1/2 bg-white dark:bg-gray-800 rounded-full py-1 px-3 shadow-md"
+            >
+              <div className="flex items-center gap-1 text-sm text-primary">
+                <span>{activeSection && t(`nav.${activeSection}`)}</span>
+                <ChevronDown size={14} />
+              </div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </motion.header>
+    </>
+  );
+};
+
+export default Header;
+
+import { useTranslation } from 'react-i18next';
+import { motion, useInView, useScroll, useTransform } from 'framer-motion';
+import { useRef, useState } from 'react';
+import { BookOpen, Code, Eye, Users, Clock, CheckCircle, Award } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+const AboutSection = () => {
+  const { t } = useTranslation();
+  const sectionRef = useRef<HTMLDivElement>(null);
+  const isInView = useInView(sectionRef, { once: true, amount: 0.2 });
+  const { scrollYProgress } = useScroll({
+    target: sectionRef,
+    offset: ["start end", "end start"]
+  });
+  
+  // Parallax effect for background elements
+  const y1 = useTransform(scrollYProgress, [0, 1], [0, -100]);
+  const y2 = useTransform(scrollYProgress, [0, 1], [0, -150]);
+  
+  // Experience metrics with counter animation
+  const [animatedExperience, setAnimatedExperience] = useState(0);
+  const [animatedProjects, setAnimatedProjects] = useState(0);
+  const [animatedClients, setAnimatedClients] = useState(0);
+  
+  const metricsRef = useRef<HTMLDivElement>(null);
+  const isMetricsInView = useInView(metricsRef, { once: true, amount: 0.5 });
+  
+  // Start counter animation when metrics section is in view
+  if (isMetricsInView) {
+    setTimeout(() => {
+      const experienceDuration = 2000; // 2 seconds
+      const projectsDuration = 1500;
+      const clientsDuration = 1000;
+      
+      const experienceIncrement = 3 / (experienceDuration / 16);
+      const projectsIncrement = 15 / (projectsDuration / 16);
+      const clientsIncrement = 10 / (clientsDuration / 16);
+      
+      const experienceInterval = setInterval(() => {
+        setAnimatedExperience(prev => {
+          const next = prev + experienceIncrement;
+          if (next >= 3) {
+            clearInterval(experienceInterval);
+            return 3;
+          }
+          return next;
+        });
+      }, 16);
+      
+      const projectsInterval = setInterval(() => {
+        setAnimatedProjects(prev => {
+          const next = prev + projectsIncrement;
+          if (next >= 15) {
+            clearInterval(projectsInterval);
+            return 15;
+          }
+          return next;
+        });
+      }, 16);
+      
+      const clientsInterval = setInterval(() => {
+        setAnimatedClients(prev => {
+          const next = prev + clientsIncrement;
+          if (next >= 10) {
+            clearInterval(clientsInterval);
+            return 10;
+          }
+          return next;
+        });
+      }, 16);
+    }, 300);
+  }
+  
+  const values = [
+    {
+      icon: <BookOpen className="h-8 w-8 text-primary" />,
+      title: t('about.values.continuous_learning'),
+      description: t('about.values.continuous_learning_desc'),
+    },
+    {
+      icon: <Code className="h-8 w-8 text-primary" />,
+      title: t('about.values.problem_solving'),
+      description: t('about.values.problem_solving_desc'),
+    },
+    {
+      icon: <Eye className="h-8 w-8 text-primary" />,
+      title: t('about.values.attention_to_detail'),
+      description: t('about.values.attention_to_detail_desc'),
+    },
+    {
+      icon: <Users className="h-8 w-8 text-primary" />,
+      title: t('about.values.collaboration'),
+      description: t('about.values.collaboration_desc'),
+    },
+  ];
+  
+  const container = {
+    hidden: { opacity: 0 },
+    show: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.2,
+        delayChildren: 0.3,
+      },
+    },
+  };
+  
+  const item = {
+    hidden: { opacity: 0, y: 20 },
+    show: { opacity: 1, y: 0, transition: { duration: 0.5 } },
+  };
+  
+  return (
+    <section
+      id="about"
+      ref={sectionRef}
+      className="py-20 bg-white dark:bg-gray-800 relative overflow-hidden"
+    >
+      {/* Decorative background elements */}
+      <motion.div 
+        style={{ y: y1 }} 
+        className="absolute top-20 right-0 w-72 h-72 bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl -z-10"
+      />
+      <motion.div 
+        style={{ y: y2 }} 
+        className="absolute bottom-20 left-0 w-80 h-80 bg-purple-500/5 dark:bg-purple-500/10 rounded-full blur-3xl -z-10"
+      />
+      
+      <div className="container mx-auto px-4">
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
+          {/* Left column with photo and personal info */}
+          <motion.div
+            initial={{ opacity: 0, x: -50 }}
+            animate={isInView ? { opacity: 1, x: 0 } : { opacity: 0, x: -50 }}
+            transition={{ duration: 0.7 }}
+            className="lg:col-span-1"
+          >
+            <div className="bg-gray-50 dark:bg-gray-700 rounded-2xl p-6 shadow-md">
+              {/* Profile photo with decorative border */}
+              <div className="relative w-48 h-48 mx-auto mb-6">
+                <div className="absolute inset-0 bg-gradient-to-br from-primary to-secondary rounded-full opacity-20 blur-sm transform -rotate-6"></div>
+                <div className="absolute inset-0 border-2 border-primary/30 rounded-full"></div>
+                <div className="relative w-full h-full overflow-hidden rounded-full border-4 border-white dark:border-gray-800">
+                  <img 
+                    src="/api/placeholder/400/400" 
+                    alt={t('about.profile_alt')} 
+                    className="w-full h-full object-cover" 
+                  />
+                </div>
+              </div>
+              
+              {/* Personal quote */}
+              <div className="mb-6 text-center">
+                <blockquote className="relative italic text-gray-700 dark:text-gray-300 px-8">
+                  <div className="absolute top-0 left-0 text-4xl text-primary opacity-30">"</div>
+                  <p className="relative z-10">{t('about.personal_quote')}</p>
+                  <div className="absolute bottom-0 right-0 text-4xl text-primary opacity-30">"</div>
+                </blockquote>
+              </div>
+              
+              {/* Experience metrics */}
+              <div ref={metricsRef} className="grid grid-cols-3 gap-2 text-center">
+                <div className="p-3">
+                  <div className="flex items-center justify-center mb-2">
+                    <Clock className="h-5 w-5 text-primary mr-1" />
+                    <span className="text-2xl font-bold">{Math.floor(animatedExperience)}+</span>
+                  </div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('about.metrics.years')}</p>
+                </div>
+                <div className="p-3">
+                  <div className="flex items-center justify-center mb-2">
+                    <CheckCircle className="h-5 w-5 text-primary mr-1" />
+                    <span className="text-2xl font-bold">{Math.floor(animatedProjects)}+</span>
+                  </div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('about.metrics.projects')}</p>
+                </div>
+                <div className="p-3">
+                  <div className="flex items-center justify-center mb-2">
+                    <Award className="h-5 w-5 text-primary mr-1" />
+                    <span className="text-2xl font-bold">{Math.floor(animatedClients)}+</span>
+                  </div>
+                  <p className="text-sm text-gray-600 dark:text-gray-400">{t('about.metrics.clients')}</p>
+                </div>
+              </div>
+            </div>
+          </motion.div>
+          
+          {/* Right column with about text and journey */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
+            transition={{ duration: 0.5 }}
+            className="lg:col-span-2"
+          >
+            <h2 className="text-3xl md:text-4xl font-bold mb-6">{t('about.title')}</h2>
+            <div className="h-1 w-20 bg-primary mb-8 rounded-full"></div>
+            
+            <div className="space-y-6 text-gray-700 dark:text-gray-300">
+              <p className="text-lg">{t('about.intro')}</p>
+              
+              {/* Journey visualization */}
+              <div className="relative py-8 px-4 border-l-2 border-primary/30 my-8">
+                <div className="absolute top-0 left-0 w-4 h-4 -ml-2 rounded-full bg-primary"></div>
+                
+                <div className="ml-6 mb-8">
+                  <h4 className="text-xl font-semibold mb-2">{t('about.journey.education')}</h4>
+                  <p>{t('about.background')}</p>
+                </div>
+                
+                <div className="absolute top-1/2 left-0 w-4 h-4 -ml-2 rounded-full bg-primary"></div>
+                
+                <div className="ml-6">
+                  <h4 className="text-xl font-semibold mb-2">{t('about.journey.professional')}</h4>
+                  <p>{t('about.philosophy')}</p>
+                </div>
+                
+                <div className="absolute bottom-0 left-0 w-4 h-4 -ml-2 rounded-full bg-primary"></div>
+              </div>
+              
+              <p className="text-lg">{t('about.conclusion')}</p>
+            </div>
+          </motion.div>
+        </div>
+        
+        {/* Values section */}
+        <motion.div
+          variants={container}
+          initial="hidden"
+          animate={isInView ? "show" : "hidden"}
+          className="mt-20"
+        >
+          <h3 className="text-2xl font-bold text-center mb-8">{t('about.values.title')}</h3>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {values.map((value, index) => (
+              <motion.div
+                key={index}
+                variants={item}
+                className={cn(
+                  "bg-gray-50 dark:bg-gray-700 p-6 rounded-lg",
+                  "border border-gray-100 dark:border-gray-600",
+                  "hover:shadow-md dark:hover:shadow-gray-800/20 transition-shadow transform hover:-translate-y-1",
+                  "flex flex-col items-center text-center"
+                )}
+              >
+                <div className="bg-primary/10 dark:bg-primary/20 p-3 rounded-full mb-4">
+                  {value.icon}
+                </div>
+                <h4 className="text-xl font-semibold mb-3">{value.title}</h4>
+                <p className="text-gray-600 dark:text-gray-400">{value.description}</p>
+              </motion.div>
+            ))}
+          </div>
+        </motion.div>
+      </div>
+    </section>
+  );
+};
+
+export default AboutSection;
+import { useState } from 'react';
+import { motion, AnimatePresence, Variants } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { Mail, Phone, MapPin, Send, Linkedin, Github, Twitter, Check, AlertCircle } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+type FormStatus = 'idle' | 'submitting' | 'success' | 'error';
+
+interface FormData {
+  name: string;
+  email: string;
+  subject: string;
+  message: string;
+}
+
+const ContactSection: React.FC = () => {
+  const { t, language } = useLanguage();
+  const [formStatus, setFormStatus] = useState<FormStatus>('idle');
+  const [formData, setFormData] = useState<FormData>({
+    name: '',
+    email: '',
+    subject: '',
+    message: ''
+  });
+  const [errors, setErrors] = useState<Partial<FormData>>({});
+  
+  // Animation variants
+  const containerVariants: Variants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1
+      }
+    }
+  };
+  
+  const itemVariants: Variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { 
+      opacity: 1, 
+      y: 0,
+      transition: { duration: 0.5 }
+    }
+  };
+  
+  // Form validation
+  const validateForm = (): boolean => {
+    const newErrors: Partial<FormData> = {};
+    let isValid = true;
+    
+    if (!formData.name.trim()) {
+      newErrors.name = t('contact.errors.nameRequired');
+      isValid = false;
+    }
+    
+    if (!formData.email.trim()) {
+      newErrors.email = t('contact.errors.emailRequired');
+      isValid = false;
+    } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(formData.email)) {
+      newErrors.email = t('contact.errors.emailInvalid');
+      isValid = false;
+    }
+    
+    if (!formData.subject.trim()) {
+      newErrors.subject = t('contact.errors.subjectRequired');
+      isValid = false;
+    }
+    
+    if (!formData.message.trim()) {
+      newErrors.message = t('contact.errors.messageRequired');
+      isValid = false;
+    } else if (formData.message.trim().length < 20) {
+      newErrors.message = t('contact.errors.messageLength');
+      isValid = false;
+    }
+    
+    setErrors(newErrors);
+    return isValid;
+  };
+  
+  // Form submission handler
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    
+    if (!validateForm()) return;
+    
+    setFormStatus('submitting');
+    
+    try {
+      // Simulate API call
+      await new Promise(resolve => setTimeout(resolve, 1500));
+      
+      // On success
+      setFormStatus('success');
+      setFormData({
+        name: '',
+        email: '',
+        subject: '',
+        message: ''
+      });
+      
+      // Reset after showing success message
+      setTimeout(() => {
+        setFormStatus('idle');
+      }, 5000);
+    } catch (error) {
+      setFormStatus('error');
+      
+      // Reset after showing error message
+      setTimeout(() => {
+        setFormStatus('idle');
+      }, 5000);
+    }
+  };
+  
+  // Field change handler
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
+    const { name, value } = e.target;
+    
+    // Clear error when user starts typing
+    if (errors[name as keyof FormData]) {
+      setErrors(prev => ({ ...prev, [name]: undefined }));
+    }
+    
+    setFormData(prev => ({ ...prev, [name]: value }));
+  };
+  
+  return (
+    <section id="contact" className="py-20 relative overflow-hidden">
+      {/* Decorative background */}
+      <div className="absolute inset-0 -z-10">
+        <div className="absolute top-40 -left-20 w-64 h-64 bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-40 -right-20 w-80 h-80 bg-purple-500/5 dark:bg-purple-500/10 rounded-full blur-3xl"></div>
+      </div>
+      
+      <div className="container mx-auto px-4">
+        <motion.div 
+          className="text-center mb-16"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('contact.title')}</h2>
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            {t('contact.subtitle')}
+          </p>
+        </motion.div>
+        
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-5xl mx-auto">
+          {/* Contact information */}
+          <motion.div
+            variants={containerVariants}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+          >
+            <motion.h3 
+              variants={itemVariants}
+              className="text-xl font-bold mb-6"
+            >
+              {t('contact.getInTouch')}
+            </motion.h3>
+            
+            <div className="space-y-6">
+              <motion.div 
+                variants={itemVariants}
+                className="flex items-start gap-4"
+              >
+                <div className="mt-1 p-2 rounded-full bg-primary/10 dark:bg-primary/20 text-primary">
+                  <Mail size={20} />
+                </div>
+                <div>
+                  <h4 className="font-medium">{t('contact.email')}</h4>
+                  <a 
+                    href="mailto:contact@fotso.dev" 
+                    className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
+                  >
+                    contact@fotso.dev
+                  </a>
+                </div>
+              </motion.div>
+              
+              <motion.div 
+                variants={itemVariants}
+                className="flex items-start gap-4"
+              >
+                <div className="mt-1 p-2 rounded-full bg-primary/10 dark:bg-primary/20 text-primary">
+                  <Phone size={20} />
+                </div>
+                <div>
+                  <h4 className="font-medium">{t('contact.phone')}</h4>
+                  <a 
+                    href="tel:+237XXXXXXXXX" 
+                    className="text-gray-600 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
+                  >
+                    +237 XX XX XX XX XX
+                  </a>
+                </div>
+              </motion.div>
+              
+              <motion.div 
+                variants={itemVariants}
+                className="flex items-start gap-4"
+              >
+                <div className="mt-1 p-2 rounded-full bg-primary/10 dark:bg-primary/20 text-primary">
+                  <MapPin size={20} />
+                </div>
+                <div>
+                  <h4 className="font-medium">{t('contact.location')}</h4>
+                  <p className="text-gray-600 dark:text-gray-400">
+                    Douala, Cameroon
+                  </p>
+                </div>
+              </motion.div>
+            </div>
+            
+            {/* Social links */}
+            <motion.div
+              variants={itemVariants}
+              className="mt-12"
+            >
+              <h3 className="text-xl font-bold mb-6">{t('contact.socialMedia')}</h3>
+              
+              <div className="flex gap-4">
+                <a 
+                  href="https://linkedin.com/in/yourprofile" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="p-3 rounded-full bg-[#0077B5]/10 text-[#0077B5] hover:bg-[#0077B5]/20 transition-colors"
+                  aria-label="LinkedIn"
+                >
+                  <Linkedin size={20} />
+                </a>
+                <a 
+                  href="https://github.com/yourusername" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="p-3 rounded-full bg-gray-800/10 dark:bg-gray-200/10 text-gray-800 dark:text-gray-200 hover:bg-gray-800/20 dark:hover:bg-gray-200/20 transition-colors"
+                  aria-label="GitHub"
+                >
+                  <Github size={20} />
+                </a>
+                <a 
+                  href="https://twitter.com/yourusername" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="p-3 rounded-full bg-[#1DA1F2]/10 text-[#1DA1F2] hover:bg-[#1DA1F2]/20 transition-colors"
+                  aria-label="Twitter"
+                >
+                  <Twitter size={20} />
+                </a>
+              </div>
+            </motion.div>
+            
+            {/* Download CV */}
+            <motion.div
+              variants={itemVariants}
+              className="mt-12"
+            >
+              <a 
+                href="/cv.pdf" 
+                download
+                className="inline-flex items-center gap-2 px-6 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors"
+              >
+                <span>{t('contact.downloadCV')}</span>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M12 16L12 8" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M9 13L12 16L15 13" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M20 16V18C20 19.1046 19.1046 20 18 20H6C4.89543 20 4 19.1046 4 18V16" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                </svg>
+              </a>
+            </motion.div>
+          </motion.div>
+          
+          {/* Contact form */}
+          <motion.div
+            variants={containerVariants}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true }}
+          >
+            <motion.h3 
+              variants={itemVariants}
+              className="text-xl font-bold mb-6"
+            >
+              {t('contact.sendMessage')}
+            </motion.h3>
+            
+            <form onSubmit={handleSubmit} className="space-y-6">
+              <motion.div variants={itemVariants}>
+                <label htmlFor="name" className="block mb-2 text-sm font-medium">
+                  {t('contact.form.name')}
+                </label>
+                <input
+                  type="text"
+                  id="name"
+                  name="name"
+                  value={formData.name}
+                  onChange={handleChange}
+                  className={cn(
+                    "w-full px-4 py-3 rounded-lg border bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-primary",
+                    errors.name 
+                      ? "border-red-500 focus:ring-red-500 focus:border-red-500" 
+                      : "border-gray-300 dark:border-gray-600"
+                  )}
+                  disabled={formStatus === 'submitting'}
+                />
+                {errors.name && (
+                  <p className="mt-1 text-red-500 text-sm">{errors.name}</p>
+                )}
+              </motion.div>
+              
+              <motion.div variants={itemVariants}>
+                <label htmlFor="email" className="block mb-2 text-sm font-medium">
+                  {t('contact.form.email')}
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  className={cn(
+                    "w-full px-4 py-3 rounded-lg border bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-primary",
+                    errors.email 
+                      ? "border-red-500 focus:ring-red-500 focus:border-red-500" 
+                      : "border-gray-300 dark:border-gray-600"
+                  )}
+                  disabled={formStatus === 'submitting'}
+                />
+                {errors.email && (
+                  <p className="mt-1 text-red-500 text-sm">{errors.email}</p>
+                )}
+              </motion.div>
+              
+              <motion.div variants={itemVariants}>
+                <label htmlFor="subject" className="block mb-2 text-sm font-medium">
+                  {t('contact.form.subject')}
+                </label>
+                <input
+                  type="text"
+                  id="subject"
+                  name="subject"
+                  value={formData.subject}
+                  onChange={handleChange}
+                  className={cn(
+                    "w-full px-4 py-3 rounded-lg border bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-primary",
+                    errors.subject 
+                      ? "border-red-500 focus:ring-red-500 focus:border-red-500" 
+                      : "border-gray-300 dark:border-gray-600"
+                  )}
+                  disabled={formStatus === 'submitting'}
+                />
+                {errors.subject && (
+                  <p className="mt-1 text-red-500 text-sm">{errors.subject}</p>
+                )}
+              </motion.div>
+              
+              <motion.div variants={itemVariants}>
+                <label htmlFor="message" className="block mb-2 text-sm font-medium">
+                  {t('contact.form.message')}
+                </label>
+                <textarea
+                  id="message"
+                  name="message"
+                  value={formData.message}
+                  onChange={handleChange}
+                  rows={6}
+                  className={cn(
+                    "w-full px-4 py-3 rounded-lg border bg-white dark:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-primary",
+                    errors.message 
+                      ? "border-red-500 focus:ring-red-500 focus:border-red-500" 
+                      : "border-gray-300 dark:border-gray-600"
+                  )}
+                  disabled={formStatus === 'submitting'}
+                />
+                {errors.message && (
+                  <p className="mt-1 text-red-500 text-sm">{errors.message}</p>
+                )}
+              </motion.div>
+              
+              <motion.div variants={itemVariants}>
+                <button
+                  type="submit"
+                  disabled={formStatus === 'submitting'}
+                  className="w-full px-4 py-3 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors flex items-center justify-center gap-2 disabled:opacity-70 disabled:cursor-not-allowed"
+                >
+                  {formStatus === 'submitting' ? (
+                    <>
+                      <svg className="animate-spin h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      <span>{t('contact.form.sending')}</span>
+                    </>
+                  ) : (
+                    <>
+                      <Send size={20} />
+                      <span>{t('contact.form.send')}</span>
+                    </>
+                  )}
+                </button>
+              </motion.div>
+            </form>
+            
+            {/* Form status messages */}
+            <AnimatePresence>
+              {formStatus === 'success' && (
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -20 }}
+                  className="mt-6 p-4 rounded-lg bg-green-50 dark:bg-green-900/20 text-green-800 dark:text-green-200 flex items-center gap-2"
+                >
+                  <Check size={20} className="flex-shrink-0" />
+                  <span>{t('contact.form.successMessage')}</span>
+                </motion.div>
+              )}
+              
+              {formStatus === 'error' && (
+                <motion.div
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  exit={{ opacity: 0, y: -20 }}
+                  className="mt-6 p-4 rounded-lg bg-red-50 dark:bg-red-900/20 text-red-800 dark:text-red-200 flex items-center gap-2"
+                >
+                  <AlertCircle size={20} className="flex-shrink-0" />
+                  <span>{t('contact.form.errorMessage')}</span>
+                </motion.div>
+              )}
+            </AnimatePresence>
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default ContactSection;
+import { motion, Variants } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { GraduationCap, Calendar, MapPin, Award, BookOpen } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+// Define types for education data
+interface Education {
+  id: string;
+  degree: {
+    en: string;
+    fr: string;
+  };
+  field: {
+    en: string;
+    fr: string;
+  };
+  institution: {
+    en: string;
+    fr: string;
+  };
+  location: string;
+  period: {
+    start: string;
+    end: string;
+  };
+  description?: {
+    en: string;
+    fr: string;
+  };
+  achievements?: {
+    en: string[];
+    fr: string[];
+  };
+  logo?: string;
+}
+
+// Sample education data
+const educations: Education[] = [
+  {
+    id: 'iut-douala',
+    degree: {
+      en: "Bachelor's Degree",
+      fr: "Licence"
+    },
+    field: {
+      en: "Software Engineering",
+      fr: "Génie Logiciel"
+    },
+    institution: {
+      en: "IUT Douala",
+      fr: "IUT de Douala"
+    },
+    location: "Douala, Cameroon",
+    period: {
+      start: "2022",
+      end: "2023"
+    },
+    description: {
+      en: "Studied advanced software engineering concepts with a focus on web and mobile development.",
+      fr: "Étude de concepts avancés de génie logiciel avec une spécialisation en développement web et mobile."
+    },
+    achievements: {
+      en: [
+        "Graduated with honors",
+        "Developed multiple web applications as part of the academic projects",
+        "Participated in coding competitions"
+      ],
+      fr: [
+        "Diplômé avec mention",
+        "Développement de plusieurs applications web dans le cadre des projets académiques",
+        "Participation à des compétitions de programmation"
+      ]
+    },
+    logo: '/api/placeholder/150/150'
+  },
+  {
+    id: 'est-la-salle',
+    degree: {
+      en: "Higher Technician Certificate (BTS)",
+      fr: "Brevet de Technicien Supérieur (BTS)"
+    },
+    field: {
+      en: "Industrial Computing and Automation",
+      fr: "Informatique Industrielle et Automatisme"
+    },
+    institution: {
+      en: "EST La Salle",
+      fr: "EST La Salle"
+    },
+    location: "Douala, Cameroon",
+    period: {
+      start: "2020",
+      end: "2022"
+    },
+    description: {
+      en: "Learned the fundamentals of industrial computing, automation systems, and basic software development.",
+      fr: "Apprentissage des fondamentaux de l'informatique industrielle, des systèmes d'automatisation et du développement logiciel de base."
+    },
+    achievements: {
+      en: [
+        "Completed practical training in industrial control systems",
+        "Designed automated solutions for industrial processes",
+        "Developed programming skills in various languages"
+      ],
+      fr: [
+        "Formation pratique complète sur les systèmes de contrôle industriel",
+        "Conception de solutions automatisées pour les processus industriels",
+        "Développement de compétences en programmation dans divers langages"
+      ]
+    },
+    logo: '/api/placeholder/150/150'
+  },
+  {
+    id: 'college-progressif',
+    degree: {
+      en: "Baccalaureate",
+      fr: "Baccalauréat"
+    },
+    field: {
+      en: "Science",
+      fr: "Sciences"
+    },
+    institution: {
+      en: "Collège Progressif Ngouno",
+      fr: "Collège Progressif Ngouno"
+    },
+    location: "Bonabéri, Douala, Cameroon",
+    period: {
+      start: "2017",
+      end: "2020"
+    },
+    description: {
+      en: "Completed secondary education with a focus on scientific disciplines including mathematics and physics.",
+      fr: "Éducation secondaire complétée avec une concentration sur les disciplines scientifiques, notamment les mathématiques et la physique."
+    },
+    logo: '/api/placeholder/150/150'
+  }
+];
+
+const EducationSection: React.FC = () => {
+  const { t, language } = useLanguage();
+  
+  // Animation variants
+  const containerVariants: Variants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.2
+      }
+    }
+  };
+  
+  const itemVariants: Variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { 
+      opacity: 1, 
+      y: 0,
+      transition: { duration: 0.5 }
+    }
+  };
+  
+  return (
+    <section id="education" className="py-20 bg-gray-50 dark:bg-gray-900/50">
+      <div className="container mx-auto px-4">
+        <motion.div 
+          className="text-center mb-16"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('education.title')}</h2>
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            {t('education.subtitle')}
+          </p>
+        </motion.div>
+        
+        <motion.div
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true, amount: 0.1 }}
+          className="max-w-3xl mx-auto"
+        >
+          {educations.map((education, index) => (
+            <motion.div 
+              key={education.id}
+              variants={itemVariants}
+              className="relative"
+            >
+              {/* Connecting line */}
+              {index < educations.length - 1 && (
+                <div className="absolute left-8 top-20 bottom-0 w-1 bg-gray-200 dark:bg-gray-700"></div>
+              )}
+              
+              <div className="flex gap-6 mb-12">
+                {/* Icon / Logo */}
+                <div className="relative">
+                  <div className="w-16 h-16 rounded-full bg-primary/10 dark:bg-primary/20 flex items-center justify-center z-10 relative">
+                    {education.logo ? (
+                      <img
+                        src={education.logo}
+                        alt={education.institution[language as keyof typeof education.institution]}
+                        className="w-12 h-12 rounded-full object-cover"
+                      />
+                    ) : (
+                      <GraduationCap size={24} className="text-primary" />
+                    )}
+                  </div>
+                </div>
+                
+                {/* Content */}
+                <div className="flex-1">
+                  <div className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-md hover:shadow-lg transition-shadow duration-300">
+                    <h3 className="text-xl font-bold mb-1">
+                      {education.degree[language as keyof typeof education.degree]} - {education.field[language as keyof typeof education.field]}
+                    </h3>
+                    
+                    <div className="text-primary font-medium mb-3">
+                      {education.institution[language as keyof typeof education.institution]}
+                    </div>
+                    
+                    <div className="flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400 mb-4">
+                      <div className="flex items-center gap-1">
+                        <Calendar size={14} className="flex-shrink-0" />
+                        <span>{education.period.start} - {education.period.end}</span>
+                      </div>
+                      <div className="flex items-center gap-1">
+                        <MapPin size={14} className="flex-shrink-0" />
+                        <span>{education.location}</span>
+                      </div>
+                    </div>
+                    
+                    {education.description && (
+                      <p className="text-gray-600 dark:text-gray-400 mb-4">
+                        {education.description[language as keyof typeof education.description]}
+                      </p>
+                    )}
+                    
+                    {/* Achievements if any */}
+                    {education.achievements && (
+                      <div className="mt-3">
+                        <h4 className="font-medium mb-2 flex items-center gap-1">
+                          <Award size={16} className="text-primary" />
+                          {t('education.achievements')}
+                        </h4>
+                        <ul className="space-y-1">
+                          {education.achievements[language as keyof typeof education.achievements].map((achievement, i) => (
+                            <li key={i} className="flex items-start gap-2">
+                              <span className="text-primary mt-1">•</span>
+                              <span className="text-sm text-gray-600 dark:text-gray-400">{achievement}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            </motion.div>
+          ))}
+          
+          {/* Additional certifications/courses section */}
+          <motion.div
+            variants={itemVariants}
+            className="mt-12 bg-white dark:bg-gray-800 rounded-xl p-6 shadow-md"
+          >
+            <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+              <BookOpen className="text-primary" size={20} />
+              {t('education.additionalCertifications')}
+            </h3>
+            
+            <div className="space-y-4">
+              <div className="p-4 border border-gray-200 dark:border-gray-700 rounded-lg">
+                <div className="font-medium">{t('education.certifications.programming')}</div>
+                <div className="text-sm text-gray-600 dark:text-gray-400">
+                  FreeCodeCamp, 2021
+                </div>
+              </div>
+              
+              <div className="p-4 border border-gray-200 dark:border-gray-700 rounded-lg">
+                <div className="font-medium">{t('education.certifications.network')}</div>
+                <div className="text-sm text-gray-600 dark:text-gray-400">
+                  Innovation SARL, 2022
+                </div>
+              </div>
+            </div>
+          </motion.div>
+        </motion.div>
+      </div>
+    </section>
+  );
+};
+
+export default EducationSection;
+import { useRef } from 'react';
+import { motion, useScroll, useTransform, useSpring, Variants } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { Briefcase, Calendar, MapPin, ExternalLink, Building, Award } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+// Define types for experience data
+interface Experience {
+  id: string;
+  company: {
+    en: string;
+    fr: string;
+  };
+  role: {
+    en: string;
+    fr: string;
+  };
+  location: string;
+  period: {
+    start: string;
+    end: string | null; // null means present/current
+  };
+  description: {
+    en: string;
+    fr: string;
+  };
+  achievements: {
+    en: string[];
+    fr: string[];
+  };
+  skills: string[];
+  companyUrl?: string;
+  logo?: string;
+}
+
+// Sample experience data
+const experiences: Experience[] = [
+  {
+    id: 'kes',
+    company: {
+      en: 'KES Africa',
+      fr: 'KES Africa'
+    },
+    role: {
+      en: 'Full-stack Developer',
+      fr: 'Développeur Full-stack'
+    },
+    location: 'Douala, Cameroon',
+    period: {
+      start: '2024-03',
+      end: null
+    },
+    description: {
+      en: 'Developing innovative applications for business management and training certification, implementing containerization and CI/CD pipelines.',
+      fr: 'Développement d\'applications innovantes pour la gestion d\'entreprise et la certification de formations, mise en place de conteneurisation et pipelines CI/CD.'
+    },
+    achievements: {
+      en: [
+        'Designed and implemented QR code identification system for equipment tracking',
+        'Built certificate generation application that reduced issuance time from days to minutes',
+        'Implemented Docker containerization for all applications',
+        'Set up CI/CD pipelines with GitHub Actions'
+      ],
+      fr: [
+        'Conception et implémentation d\'un système d\'identification par QR code pour le suivi des équipements',
+        'Développement d\'une application de génération de certificats qui a réduit le temps d\'émission de jours à minutes',
+        'Mise en place de la conteneurisation Docker pour toutes les applications',
+        'Configuration de pipelines CI/CD avec GitHub Actions'
+      ]
+    },
+    skills: ['Django', 'React', 'Flutter', 'Docker', 'CI/CD', 'GitHub Actions'],
+    companyUrl: 'https://example.com/kes-africa',
+    logo: '/api/placeholder/150/150'
+  },
+  {
+    id: 'servitel',
+    company: {
+      en: 'Servitel',
+      fr: 'Servitel'
+    },
+    role: {
+      en: 'Web Developer & Network Specialist',
+      fr: 'Développeur Web & Spécialiste Réseaux'
+    },
+    location: 'Douala, Cameroon',
+    period: {
+      start: '2023-03',
+      end: '2023-12'
+    },
+    description: {
+      en: 'Developed helpdesk task management application while also working on network systems, access control, and video surveillance.',
+      fr: 'Développement d\'une application de gestion de tâches pour le helpdesk tout en travaillant sur les systèmes de réseaux, le contrôle d\'accès et la vidéosurveillance.'
+    },
+    achievements: {
+      en: [
+        'Built task management system that reduced coordination time by 40%',
+        'Improved client satisfaction rates by 25% with efficient reporting',
+        'Optimized technician routes by 15% through geolocation integration',
+        'Configured and installed security equipment from Hikvision, Dahua, and other manufacturers'
+      ],
+      fr: [
+        'Développement d\'un système de gestion des tâches qui a réduit le temps de coordination de 40%',
+        'Amélioration des taux de satisfaction client de 25% grâce à des rapports efficaces',
+        'Optimisation des itinéraires des techniciens de 15% grâce à l\'intégration de la géolocalisation',
+        'Configuration et installation d\'équipements de sécurité des marques Hikvision, Dahua et autres fabricants'
+      ]
+    },
+    skills: ['React.js', 'Django REST Framework', 'MySQL', 'Network Configuration', 'Security Systems'],
+    companyUrl: 'https://example.com/servitel',
+    logo: '/api/placeholder/150/150'
+  },
+  {
+    id: 'innovation',
+    company: {
+      en: 'Innovation SARL',
+      fr: 'Innovation SARL'
+    },
+    role: {
+      en: 'IT Intern',
+      fr: 'Stagiaire Informatique'
+    },
+    location: 'Douala, Cameroon',
+    period: {
+      start: '2020-06',
+      end: '2022-05'
+    },
+    description: {
+      en: 'Completed three 3-month internships at this startup specializing in networks, access control, video surveillance, and web development.',
+      fr: 'Réalisation de trois stages de 3 mois chacun dans cette start-up spécialisée dans les réseaux, le contrôle d\'accès, la vidéosurveillance et le développement web.'
+    },
+    achievements: {
+      en: [
+        'Received practical training on security systems and equipment',
+        'Participated in network infrastructure setup projects',
+        'Assisted with client-side video surveillance installations',
+        'Learned Odoo services implementation for business management'
+      ],
+      fr: [
+        'Formation pratique sur les systèmes et équipements de sécurité',
+        'Participation à des projets de mise en place d\'infrastructures réseau',
+        'Assistance aux installations de vidéosurveillance chez les clients',
+        'Apprentissage de l\'implémentation des services Odoo pour la gestion d\'entreprise'
+      ]
+    },
+    skills: ['Network Basics', 'Security Systems', 'Odoo', 'Video Surveillance'],
+    companyUrl: 'https://example.com/innovation-sarl',
+    logo: '/api/placeholder/150/150'
+  }
+];
+
+const ExperienceSection: React.FC = () => {
+  const { t, language, formatDate } = useLanguage();
+  const sectionRef = useRef<HTMLDivElement>(null);
+  const { scrollYProgress } = useScroll({
+    target: sectionRef,
+    offset: ["start end", "end start"]
+  });
+  
+  // Spring animation for smooth scrolling progress
+  const smoothProgress = useSpring(scrollYProgress, { stiffness: 100, damping: 30 });
+  
+  // Animation variants
+  const containerVariants: Variants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.2
+      }
+    }
+  };
+  
+  const itemVariants: Variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { 
+      opacity: 1, 
+      y: 0,
+      transition: { duration: 0.5 }
+    }
+  };
+  
+  // Format date for display
+  const formatDisplayDate = (dateString: string | null): string => {
+    if (!dateString) return t('experience.present');
+    
+    try {
+      const date = new Date(dateString);
+      return new Intl.DateTimeFormat(language === 'fr' ? 'fr-FR' : 'en-US', { 
+        year: 'numeric', 
+        month: 'long' 
+      }).format(date);
+    } catch (error) {
+      return dateString;
+    }
+  };
+  
+  // Calculate duration in months/years
+  const calculateDuration = (start: string, end: string | null): string => {
+    const startDate = new Date(start);
+    const endDate = end ? new Date(end) : new Date();
+    
+    const totalMonths = (endDate.getFullYear() - startDate.getFullYear()) * 12 
+                        + (endDate.getMonth() - startDate.getMonth());
+    
+    const years = Math.floor(totalMonths / 12);
+    const months = totalMonths % 12;
+    
+    let duration = '';
+    
+    if (years > 0) {
+      duration += `${years} ${years === 1 ? t('experience.year') : t('experience.years')}`;
+    }
+    
+    if (months > 0 || years === 0) {
+      if (years > 0) duration += ' ';
+      duration += `${months} ${months === 1 ? t('experience.month') : t('experience.months')}`;
+    }
+    
+    return duration;
+  };
+  
+  return (
+    <section id="experience" className="py-20 relative">
+      {/* Decorative background */}
+      <div className="absolute inset-0 -z-10">
+        <div className="absolute top-40 -left-20 w-64 h-64 bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-40 -right-20 w-80 h-80 bg-purple-500/5 dark:bg-purple-500/10 rounded-full blur-3xl"></div>
+      </div>
+      
+      <div className="container mx-auto px-4">
+        <motion.div 
+          className="text-center mb-16"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('experience.title')}</h2>
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            {t('experience.subtitle')}
+          </p>
+        </motion.div>
+        
+        {/* Timeline with experiences */}
+        <div className="relative" ref={sectionRef}>
+          {/* Progress line */}
+          <div className="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gray-200 dark:bg-gray-700"></div>
+          <motion.div 
+            className="absolute left-1/2 transform -translate-x-1/2 w-1 bg-primary origin-top"
+            style={{ 
+              height: smoothProgress, 
+              scaleY: smoothProgress
+            }}
+          ></motion.div>
+          
+          <motion.div
+            variants={containerVariants}
+            initial="hidden"
+            whileInView="visible"
+            viewport={{ once: true, amount: 0.1 }}
+            className="relative"
+          >
+            {experiences.map((experience, index) => (
+              <motion.div 
+                key={experience.id}
+                variants={itemVariants}
+                custom={index}
+                className={cn(
+                  "grid grid-cols-1 md:grid-cols-2 gap-8 mb-16 relative",
+                  index % 2 === 0 ? "md:grid-flow-row" : "md:grid-flow-row"
+                )}
+              >
+                {/* Timeline node */}
+                <div className="absolute left-1/2 transform -translate-x-1/2 w-5 h-5 rounded-full bg-white dark:bg-gray-800 border-4 border-primary z-10"></div>
+                
+                {/* Date marker */}
+                <div className={cn(
+                  "absolute left-1/2 transform -translate-x-1/2 mt-8 bg-primary/10 dark:bg-primary/20 text-primary px-3 py-1 rounded-full text-sm font-medium whitespace-nowrap",
+                  index % 2 === 0 ? "md:translate-x-20" : "md:-translate-x-20"
+                )}>
+                  {formatDisplayDate(experience.period.start)} - {formatDisplayDate(experience.period.end)}
+                </div>
+                
+                {/* Content box */}
+                <motion.div 
+                  className={cn(
+                    "bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg md:col-span-1",
+                    index % 2 === 0 
+                      ? "md:text-right md:col-start-1" 
+                      : "md:col-start-2"
+                  )}
+                  whileHover={{ y: -5, boxShadow: "0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)" }}
+                  transition={{ duration: 0.2 }}
+                >
+                  <div className="flex items-center gap-4 mb-4">
+                    {experience.logo && (
+                      <div className="w-12 h-12 rounded-lg overflow-hidden flex-shrink-0">
+                        <img
+                          src={experience.logo}
+                          alt={experience.company[language as keyof typeof experience.company]}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                    )}
+                    
+                    <div className={cn(
+                      "flex-grow",
+                      index % 2 === 0 ? "md:text-right" : ""
+                    )}>
+                      <h3 className="text-xl font-bold">
+                        {experience.role[language as keyof typeof experience.role]}
+                      </h3>
+                      <div className="flex items-center gap-1 text-primary">
+                        <Building size={16} />
+                        <span className="font-medium">
+                          {experience.company[language as keyof typeof experience.company]}
+                        </span>
+                        {experience.companyUrl && (
+                          <a 
+                            href={experience.companyUrl} 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                            className="text-gray-500 hover:text-primary transition-colors"
+                          >
+                            <ExternalLink size={14} />
+                          </a>
+                        )}
+                      </div>
+                    </div>
+                  </div>
+                  
+                  <div className="space-y-4">
+                    <div className="flex items-center gap-2 text-sm text-gray-600 dark:text-gray-400">
+                      <div className="flex items-center gap-1">
+                        <Calendar size={14} className="flex-shrink-0" />
+                        <span>{calculateDuration(experience.period.start, experience.period.end)}</span>
+                      </div>
+                      <span>•</span>
+                      <div className="flex items-center gap-1">
+                        <MapPin size={14} className="flex-shrink-0" />
+                        <span>{experience.location}</span>
+                      </div>
+                    </div>
+                    
+                    <p className="text-gray-600 dark:text-gray-400">
+                      {experience.description[language as keyof typeof experience.description]}
+                    </p>
+                    
+                    {/* Key achievements */}
+                    <div>
+                      <h4 className="font-bold mb-2 flex items-center gap-1">
+                        <Award size={16} className="text-primary" />
+                        {t('experience.keyAchievements')}
+                      </h4>
+                      <ul className="space-y-1">
+                        {experience.achievements[language as keyof typeof experience.achievements].map((achievement, i) => (
+                          <li key={i} className="flex items-start gap-2">
+                            <span className="text-primary mt-1">•</span>
+                            <span>{achievement}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                    
+                    {/* Skills used */}
+                    <div className="flex flex-wrap gap-2">
+                      {experience.skills.map((skill, i) => (
+                        <span 
+                          key={i} 
+                          className="inline-block px-2 py-1 bg-gray-100 dark:bg-gray-700 rounded-full text-xs font-medium"
+                        >
+                          {skill}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                </motion.div>
+                
+                {/* Visual spacer for the alternating layout */}
+                <div className="hidden md:block"></div>
+              </motion.div>
+            ))}
+          </motion.div>
+          
+          {/* Final marker */}
+          <div className="absolute left-1/2 transform -translate-x-1/2 bottom-0 w-5 h-5 rounded-full bg-primary z-10"></div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default ExperienceSection;
+import { useState, useEffect, useRef } from 'react';
+import { motion, useScroll, useTransform, AnimatePresence } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { useTheme } from '../../context/ThemeContext';
+import { ArrowDownIcon, Terminal, Beaker, ChevronRight, Code, Database, Globe, Laptop } from 'lucide-react';
+import { useSpring, animated } from '@react-spring/web';
+import { useGesture } from '@use-gesture/react';
+import { cn } from '../../utils/cn';
+
+// Display mode types
+type DisplayMode = 'default' | 'terminal' | 'interactive';
+
+const HeroSection = () => {
+  const { t, language } = useLanguage();
+  const { theme } = useTheme();
+  const [typedText, setTypedText] = useState('');
+  const [showCursor, setShowCursor] = useState(true);
+  const [displayMode, setDisplayMode] = useState<DisplayMode>('default');
+  const [terminalIndex, setTerminalIndex] = useState(0);
+  const fullName = t('hero.name');
+  const sectionRef = useRef<HTMLElement>(null);
+  
+  // Get scroll progress for parallax effects
+  const { scrollY } = useScroll();
+  const bgY = useTransform(scrollY, [0, 500], [0, 150]);
+  const opacity = useTransform(scrollY, [0, 200], [1, 0]);
+  
+  // Terminal commands for the terminal mode
+  const terminalCommands = [
+    { cmd: "npm install portfolio", output: "Installing portfolio dependencies..." },
+    { cmd: "npm run dev", output: "Starting development server..." },
+    { cmd: "cat about.md", output: t('hero.terminalAbout') },
+  ];
+  
+  // Interactive floating elements
+  const [{ x, y }, api] = useSpring(() => ({ x: 0, y: 0 }));
+  
+  const bind = useGesture({
+    onMove: ({ xy: [px, py] }) => {
+      api.start({ x: (px - window.innerWidth / 2) / 20, y: (py - window.innerHeight / 2) / 20 });
+    },
+  });
+  
+  // Typing effect for the name
+  useEffect(() => {
+    let currentIndex = 0;
+    const interval = setInterval(() => {
+      if (currentIndex <= fullName.length) {
+        setTypedText(fullName.substring(0, currentIndex));
+        currentIndex++;
+      } else {
+        clearInterval(interval);
+        
+        // Start cursor blinking after typing is complete
+        const cursorInterval = setInterval(() => {
+          setShowCursor(prev => !prev);
+        }, 500);
+        
+        return () => clearInterval(cursorInterval);
+      }
+    }, 100);
+    
+    return () => clearInterval(interval);
+  }, [fullName]);
+  
+  // Terminal typing effect
+  useEffect(() => {
+    if (displayMode === 'terminal') {
+      const terminalInterval = setInterval(() => {
+        if (terminalIndex < terminalCommands.length) {
+          setTerminalIndex(prev => prev + 1);
+        } else {
+          clearInterval(terminalInterval);
+        }
+      }, 1500);
+      
+      return () => clearInterval(terminalInterval);
+    } else {
+      setTerminalIndex(0);
+    }
+  }, [displayMode, terminalCommands.length, terminalIndex]);
+  
+  // Lab equipment icons floating around
+  const techIcons = [
+    { icon: <Code size={24} className="text-blue-500" />, x: -150, y: -120, scale: 1.3 },
+    { icon: <Globe size={24} className="text-green-500" />, x: 180, y: -80, scale: 1.5 },
+    { icon: <Database size={24} className="text-purple-500" />, x: -100, y: 120, scale: 1.2 },
+    { icon: <Laptop size={24} className="text-yellow-500" />, x: 150, y: 100, scale: 1.4 },
+    { icon: <Beaker size={24} className="text-red-400" />, x: -200, y: 0, scale: 1.6 },
+  ];
+  
+  // Animation variants
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.3,
+        delayChildren: 0.2,
+      },
+    },
+  };
+  
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: { duration: 0.8, ease: "easeOut" },
+    },
+  };
+  
+  const iconVariants = {
+    initial: ({ x, y, scale }: { x: number, y: number, scale: number }) => ({
+      x,
+      y,
+      scale,
+      opacity: 0.7,
+    }),
+    animate: ({ x, y, scale }: { x: number, y: number, scale: number }) => ({
+      x: [x, x + 30, x - 10, x],
+      y: [y, y - 20, y + 30, y],
+      scale: [scale, scale * 1.1, scale * 0.9, scale],
+      opacity: [0.7, 0.9, 0.8, 0.7],
+      transition: {
+        duration: 10 + Math.random() * 5,
+        repeat: Infinity,
+        repeatType: "reverse",
+      },
+    }),
+  };
+  
+  // Change display mode
+  const cycleDisplayMode = () => {
+    if (displayMode === 'default') setDisplayMode('terminal');
+    else if (displayMode === 'terminal') setDisplayMode('interactive');
+    else setDisplayMode('default');
+  };
+  
+  // Cameroonian pattern inspired background
+  const Pattern = () => (
+    <div className="absolute inset-0 opacity-5 dark:opacity-10 pointer-events-none">
+      <div className="absolute inset-0" style={{
+        backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 0L60 30L30 60L0 30L30 0z' fill='%23000000' fill-opacity='0.1'/%3E%3C/svg%3E")`,
+        backgroundSize: '60px 60px'
+      }} />
+    </div>
+  );
+  
+  return (
+    <section 
+      id="home" 
+      ref={sectionRef}
+      className="relative min-h-screen flex items-center pt-20 pb-10 overflow-hidden"
+      {...bind()}
+    >
+      <Pattern />
+      
+      {/* Laboratory-themed background elements */}
+      <motion.div style={{ y: bgY }} className="absolute inset-0 overflow-hidden">
+        <animated.div
+          style={{ x, y }}
+          className="absolute top-1/4 -left-10 w-64 h-64 bg-primary/10 rounded-full blur-3xl"
+        />
+        <animated.div
+          style={{ x: x.to(x => -x), y: y.to(y => -y) }}
+          className="absolute bottom-1/4 right-0 w-80 h-80 bg-secondary/10 rounded-full blur-3xl"
+        />
+        
+        {/* Tech icons floating around */}
+        {techIcons.map((tech, index) => (
+          <motion.div
+            key={index}
+            custom={tech}
+            variants={iconVariants}
+            initial="initial"
+            animate="animate"
+            className="absolute p-3 rounded-full bg-white/80 dark:bg-gray-800/80 shadow-lg backdrop-blur-sm"
+            style={{ 
+              left: `calc(50% + ${tech.x}px)`, 
+              top: `calc(50% + ${tech.y}px)`,
+              transform: `translate(-50%, -50%) scale(${tech.scale})` 
+            }}
+          >
+            {tech.icon}
+          </motion.div>
+        ))}
+        
+        {/* Laboratory decorative elements */}
+        <motion.div
+          style={{ opacity }}
+          className="absolute top-20 right-20 text-primary/20 dark:text-primary/40"
+        >
+          <Beaker size={120} />
+        </motion.div>
+      </motion.div>
+      
+      <div className="container mx-auto px-4 z-10 relative">
+        {/* Default mode - standard intro */}
+        {displayMode === 'default' && (
+          <motion.div
+            className="flex flex-col items-center text-center max-w-3xl mx-auto"
+            variants={containerVariants}
+            initial="hidden"
+            animate="visible"
+          >
+            <motion.div variants={itemVariants} className="flex items-center gap-2 mb-4">
+              <span className="px-3 py-1 bg-primary/10 text-primary dark:bg-primary/20 rounded-full text-sm font-medium backdrop-blur-sm">
+                {t('hero.greeting')}
+              </span>
+              <Terminal className="h-5 w-5 text-gray-500 dark:text-gray-400" />
+            </motion.div>
+            
+            <motion.h1 
+              variants={itemVariants}
+              className={cn(
+                "text-4xl md:text-6xl font-bold mb-4",
+                "bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent"
+              )}
+            >
+              {typedText}<span className={cn("animate-pulse", showCursor ? "opacity-100" : "opacity-0")}>|</span>
+            </motion.h1>
+            
+            <motion.h2 
+              variants={itemVariants}
+              className="text-2xl md:text-3xl font-bold mb-6 text-gray-800 dark:text-gray-200"
+            >
+              {t('hero.title')}
+            </motion.h2>
+            
+            <motion.p 
+              variants={itemVariants}
+              className="text-lg md:text-xl text-gray-600 dark:text-gray-400 mb-8"
+            >
+              {t('hero.subtitle')}
+            </motion.p>
+            
+            <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-4">
+              <a
+                href="#projects"
+                className="px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary/90 transition-colors backdrop-blur-sm flex items-center justify-center gap-2"
+              >
+                {t('hero.cta.projects')}
+                <ChevronRight size={16} />
+              </a>
+              <a
+                href="#contact"
+                className="px-6 py-3 bg-white/80 dark:bg-gray-800/80 border border-gray-300 dark:border-gray-700 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors backdrop-blur-sm"
+              >
+                {t('hero.cta.contact')}
+              </a>
+            </motion.div>
+          </motion.div>
+        )}
+        
+        {/* Terminal mode */}
+        {displayMode === 'terminal' && (
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -20 }}
+            transition={{ duration: 0.5 }}
+            className="max-w-3xl mx-auto"
+          >
+            <div className="bg-gray-900 rounded-lg overflow-hidden shadow-2xl text-left">
+              <div className="bg-gray-800 px-4 py-2 flex items-center space-x-2">
+                <div className="w-3 h-3 rounded-full bg-red-500" />
+                <div className="w-3 h-3 rounded-full bg-yellow-500" />
+                <div className="w-3 h-3 rounded-full bg-green-500" />
+                <div className="flex-1 text-center text-sm text-gray-400">
+                  fotso@portfolio ~ 
+                </div>
+              </div>
+              <div className="p-4 font-mono text-sm text-green-400">
+                {terminalCommands.slice(0, terminalIndex).map((item, index) => (
+                  <div key={index} className="mb-2">
+                    <div className="flex items-center">
+                      <span className="text-blue-400">~$</span>
+                      <span className="ml-2">{item.cmd}</span>
+                    </div>
+                    <div className="mt-1 text-gray-300 pl-5">{item.output}</div>
+                  </div>
+                ))}
+                
+                {terminalIndex < terminalCommands.length && (
+                  <div className="flex items-center">
+                    <span className="text-blue-400">~$</span>
+                    <span className="ml-2 relative">
+                      {terminalCommands[terminalIndex]?.cmd.substring(0, Math.floor(Date.now() / 150) % (terminalCommands[terminalIndex]?.cmd.length + 1))}
+                      <span className="absolute animate-pulse">|</span>
+                    </span>
+                  </div>
+                )}
+                
+                {terminalIndex >= terminalCommands.length && (
+                  <div className="flex items-center mt-2">
+                    <span className="text-blue-400">~$</span>
+                    <span className="ml-2 relative">
+                      <span className="absolute animate-pulse">|</span>
+                    </span>
+                  </div>
+                )}
+              </div>
+            </div>
+          </motion.div>
+        )}
+        
+        {/* Interactive mode */}
+        {displayMode === 'interactive' && (
+          <motion.div
+            initial={{ opacity: 0, scale: 0.9 }}
+            animate={{ opacity: 1, scale: 1 }}
+            exit={{ opacity: 0, scale: 0.9 }}
+            transition={{ duration: 0.5 }}
+            className="max-w-3xl mx-auto"
+          >
+            <h2 className="text-2xl font-bold mb-6 text-center">{t('hero.interactive.title')}</h2>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <motion.a
+                href="#projects"
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+                className="bg-primary/10 hover:bg-primary/20 dark:bg-primary/20 dark:hover:bg-primary/30 rounded-lg p-5 text-left transition-all duration-300"
+              >
+                <div className="flex items-start gap-3">
+                  <div className="p-2 bg-primary/20 rounded-lg text-primary">
+                    <Code size={24} />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">{t('hero.interactive.viewProjects')}</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">{t('hero.interactive.projectsDesc')}</p>
+                  </div>
+                </div>
+              </motion.a>
+              
+              <motion.a
+                href="#skills"
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+                className="bg-secondary/10 hover:bg-secondary/20 dark:bg-secondary/20 dark:hover:bg-secondary/30 rounded-lg p-5 text-left transition-all duration-300"
+              >
+                <div className="flex items-start gap-3">
+                  <div className="p-2 bg-secondary/20 rounded-lg text-secondary">
+                    <Database size={24} />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">{t('hero.interactive.skills')}</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">{t('hero.interactive.skillsDesc')}</p>
+                  </div>
+                </div>
+              </motion.a>
+              
+              <motion.a
+                href="#about"
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+                className="bg-green-500/10 hover:bg-green-500/20 dark:bg-green-500/20 dark:hover:bg-green-500/30 rounded-lg p-5 text-left transition-all duration-300"
+              >
+                <div className="flex items-start gap-3">
+                  <div className="p-2 bg-green-500/20 rounded-lg text-green-500">
+                    <Beaker size={24} />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">{t('hero.interactive.about')}</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">{t('hero.interactive.aboutDesc')}</p>
+                  </div>
+                </div>
+              </motion.a>
+              
+              <motion.a
+                href="#contact"
+                whileHover={{ scale: 1.03 }}
+                whileTap={{ scale: 0.97 }}
+                className="bg-yellow-500/10 hover:bg-yellow-500/20 dark:bg-yellow-500/20 dark:hover:bg-yellow-500/30 rounded-lg p-5 text-left transition-all duration-300"
+              >
+                <div className="flex items-start gap-3">
+                  <div className="p-2 bg-yellow-500/20 rounded-lg text-yellow-500">
+                    <Globe size={24} />
+                  </div>
+                  <div>
+                    <h3 className="font-semibold text-lg mb-2">{t('hero.interactive.contact')}</h3>
+                    <p className="text-sm text-gray-600 dark:text-gray-400">{t('hero.interactive.contactDesc')}</p>
+                  </div>
+                </div>
+              </motion.a>
+            </div>
+          </motion.div>
+        )}
+        
+        {/* Mode switcher button */}
+        <motion.button
+          onClick={cycleDisplayMode}
+          className="mt-12 text-sm text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors flex items-center gap-1 mx-auto"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 1.5 }}
+        >
+          {t('hero.switchMode')}
+          <span className="inline-block ml-1">
+            {displayMode === 'default' 
+              ? '→ Terminal' 
+              : displayMode === 'terminal' 
+                ? '→ Interactive' 
+                : '→ Default'}
+          </span>
+        </motion.button>
+      </div>
+      
+      {/* Scroll indicator */}
+      <motion.div 
+        className="absolute bottom-8 left-1/2 transform -translate-x-1/2"
+        initial={{ opacity: 0, y: -10 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ 
+          duration: 1,
+          delay: 2,
+          repeat: Infinity,
+          repeatType: "reverse" 
+        }}
+      >
+        <a 
+          href="#about" 
+          className="flex flex-col items-center text-gray-500 dark:text-gray-400 hover:text-primary dark:hover:text-primary transition-colors"
+        >
+          <span className="text-sm mb-2">{t('hero.scrollDown')}</span>
+          <ArrowDownIcon size={20} />
+        </a>
+      </motion.div>
+    </section>
+  );
+};
+
+export default HeroSection;
+import { useState, useRef } from 'react';
+import { motion, useMotionValue, useTransform, AnimatePresence } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { ExternalLink, Github, ChevronRight, ChevronLeft } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+// Project interface
+interface Project {
+  id: string;
+  title: {
+    en: string;
+    fr: string;
+  };
+  description: {
+    en: string;
+    fr: string;
+  };
+  challenge: {
+    en: string;
+    fr: string;
+  };
+  solution: {
+    en: string;
+    fr: string;
+  };
+  impact: {
+    en: string;
+    fr: string;
+  };
+  technologies: string[];
+  screenshots: string[];
+  repositoryUrl?: string;
+  liveUrl?: string;
+}
+
+// Sample project data
+const projectsData: Project[] = [
+  {
+    id: 'qr-app',
+    title: {
+      en: 'QR Code Label Generator',
+      fr: 'Générateur d\'Étiquettes QR Code'
+    },
+    description: {
+      en: 'Web application for generating, printing and managing identification labels with QR codes for equipment tracking.',
+      fr: 'Application web permettant la génération, l\'impression et la gestion d\'étiquettes d\'identification avec QR codes pour le suivi d\'équipements.'
+    },
+    challenge: {
+      en: 'Optimize the simultaneous generation of multiple QR codes while ensuring each code is unique and validated.',
+      fr: 'Optimiser la génération simultanée de multiples QR codes tout en garantissant que chaque code est unique et validé.'
+    },
+    solution: {
+      en: 'Implemented a batch processing system with database validation to prevent duplicates and optimize performance.',
+      fr: 'Mise en place d\'un système de traitement par lots avec validation en base de données pour éviter les doublons et optimiser les performances.'
+    },
+    impact: {
+      en: 'Reduced label generation time by 60% and eliminated duplicate QR codes, significantly improving inventory management.',
+      fr: 'Réduction du temps de génération d\'étiquettes de 60% et élimination des codes QR dupliqués, améliorant significativement la gestion d\'inventaire.'
+    },
+    technologies: ['React', 'TypeScript', 'Django', 'PostgreSQL', 'QR Code API'],
+    screenshots: [
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600'
+    ],
+    repositoryUrl: 'https://github.com/yourusername/qr-generator',
+    liveUrl: 'https://qr-generator.example.com'
+  },
+  {
+    id: 'training-mgmt',
+    title: {
+      en: 'Training Management System',
+      fr: 'Système de Gestion de Formations'
+    },
+    description: {
+      en: 'Mobile and web application for complete management of training sessions, participants, and automated certificate generation.',
+      fr: 'Application mobile et web permettant la gestion complète des formations, des participants et la génération automatisée d\'attestations.'
+    },
+    challenge: {
+      en: 'Create a system that works both online and offline with seamless data synchronization between mobile and server.',
+      fr: 'Créer un système fonctionnant aussi bien en ligne que hors ligne avec une synchronisation fluide des données entre mobile et serveur.'
+    },
+    solution: {
+      en: 'Developed a sophisticated data syncing mechanism using SQLite for local storage and PostgreSQL for server with conflict resolution algorithms.',
+      fr: 'Développement d\'un mécanisme sophistiqué de synchronisation des données utilisant SQLite pour le stockage local et PostgreSQL pour le serveur avec des algorithmes de résolution de conflits.'
+    },
+    impact: {
+      en: 'Increased training completion rate by 30% and reduced certificate issuing time from 2 days to mere minutes.',
+      fr: 'Augmentation du taux d\'achèvement des formations de 30% et réduction du temps d\'émission des certificats de 2 jours à quelques minutes.'
+    },
+    technologies: ['Flutter', 'Dart', 'Django', 'REST API', 'SQLite', 'PostgreSQL'],
+    screenshots: [
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600'
+    ],
+    repositoryUrl: 'https://github.com/yourusername/training-management',
+    liveUrl: 'https://training-app.example.com'
+  },
+  {
+    id: 'helpdesk',
+    title: {
+      en: 'Helpdesk Task Management',
+      fr: 'Gestion de Tâches Helpdesk'
+    },
+    description: {
+      en: 'Web platform developed for Servitel to track and coordinate technical teams during client interventions.',
+      fr: 'Plateforme web développée pour Servitel permettant le suivi et la coordination des équipes techniques lors d\'interventions chez les clients.'
+    },
+    challenge: {
+      en: 'Track multiple technical teams in real-time and optimize their intervention routes while providing actionable data to management.',
+      fr: 'Suivre plusieurs équipes techniques en temps réel et optimiser leurs parcours d\'intervention tout en fournissant des données exploitables à la direction.'
+    },
+    solution: {
+      en: 'Created a React-based dashboard with geolocation tracking, task assignment algorithms, and comprehensive reporting system.',
+      fr: 'Création d\'un tableau de bord basé sur React avec suivi de géolocalisation, algorithmes d\'attribution des tâches et système de reporting complet.'
+    },
+    impact: {
+      en: 'Reduced coordination time by 40%, improved client satisfaction by 25%, and optimized intervention routes by 15%.',
+      fr: 'Réduction de 40% du temps de coordination, amélioration de 25% de la satisfaction client et optimisation de 15% des parcours d\'intervention.'
+    },
+    technologies: ['React.js', 'Django REST Framework', 'MySQL', 'Docker', 'Geolocation API'],
+    screenshots: [
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600',
+      '/api/placeholder/800/600'
+    ]
+  }
+];
+
+// Filter type
+type FilterType = 'all' | 'frontend' | 'backend' | 'mobile';
+
+const ProjectsSection: React.FC = () => {
+  const { t, language } = useLanguage();
+  const [selectedProject, setSelectedProject] = useState<Project | null>(null);
+  const [currentFilter, setCurrentFilter] = useState<FilterType>('all');
+  const [selectedImageIndex, setSelectedImageIndex] = useState(0);
+  const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
+  const containerRef = useRef<HTMLDivElement>(null);
+  
+  // For parallax effect in project cards
+  const x = useMotionValue(0);
+  const y = useMotionValue(0);
+  const rotateX = useTransform(y, [-100, 100], [5, -5]);
+  const rotateY = useTransform(x, [-100, 100], [-5, 5]);
+  
+  // Filter projects based on current filter
+  const filteredProjects = projectsData.filter(project => {
+    if (currentFilter === 'all') return true;
+    if (currentFilter === 'frontend' && 
+        (project.technologies.includes('React') || 
+         project.technologies.includes('React.js') || 
+         project.technologies.includes('TypeScript'))) return true;
+    if (currentFilter === 'backend' && 
+        (project.technologies.includes('Django') || 
+         project.technologies.includes('PostgreSQL') || 
+         project.technologies.includes('MySQL'))) return true;
+    if (currentFilter === 'mobile' && 
+        (project.technologies.includes('Flutter') || 
+         project.technologies.includes('Dart'))) return true;
+    return false;
+  });
+  
+  // Handle mouse move for parallax effect
+  const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
+    if (!containerRef.current) return;
+    
+    const rect = containerRef.current.getBoundingClientRect();
+    const centerX = rect.left + rect.width / 2;
+    const centerY = rect.top + rect.height / 2;
+    
+    setMousePosition({
+      x: (e.clientX - centerX) / 20,
+      y: (e.clientY - centerY) / 20
+    });
+    
+    x.set((e.clientX - centerX) / 20);
+    y.set((e.clientY - centerY) / 20);
+  };
+  
+  // Navigate to next/previous project
+  const navigateProject = (direction: 'next' | 'prev') => {
+    if (!selectedProject) return;
+    
+    const currentIndex = projectsData.findIndex(p => p.id === selectedProject.id);
+    let newIndex;
+    
+    if (direction === 'next') {
+      newIndex = (currentIndex + 1) % projectsData.length;
+    } else {
+      newIndex = (currentIndex - 1 + projectsData.length) % projectsData.length;
+    }
+    
+    setSelectedProject(projectsData[newIndex]);
+    setSelectedImageIndex(0); // Reset image index for new project
+  };
+
+  // Navigation for project images
+  const navigateImages = (direction: 'next' | 'prev') => {
+    if (!selectedProject) return;
+    
+    const imageCount = selectedProject.screenshots.length;
+    
+    if (direction === 'next') {
+      setSelectedImageIndex((selectedImageIndex + 1) % imageCount);
+    } else {
+      setSelectedImageIndex((selectedImageIndex - 1 + imageCount) % imageCount);
+    }
+  };
+  
+  // Animation variants
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1
+      }
+    }
+  };
+  
+  const itemVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: { duration: 0.5 }
+    }
+  };
+  
+  // Generate gradient based on technologies
+  const getGradient = (technologies: string[]): string => {
+    const techColors: Record<string, string> = {
+      'React': 'from-blue-500',
+      'React.js': 'from-blue-500',
+      'TypeScript': 'from-blue-400',
+      'Django': 'from-green-600',
+      'Flutter': 'from-sky-400',
+      'Dart': 'from-blue-300',
+      'PostgreSQL': 'from-indigo-600',
+      'MySQL': 'from-orange-400',
+      'Docker': 'from-blue-600',
+    };
+    
+    // Find first matching technology for gradient start
+    const fromColor = technologies.find(tech => techColors[tech]) || 'from-primary';
+    const toColor = 'to-primary/50';
+    
+    return `bg-gradient-to-br ${techColors[fromColor] || fromColor} ${toColor}`;
+  };
+  
+  return (
+    <section id="projects" className="py-20 bg-gray-50 dark:bg-gray-900/50">
+      <div className="container mx-auto px-4">
+        <motion.div 
+          className="text-center mb-12"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('projects.title')}</h2>
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            {t('projects.subtitle')}
+          </p>
+          
+          {/* Filter controls */}
+          <div className="flex flex-wrap justify-center gap-2 mt-8">
+            <button
+              onClick={() => setCurrentFilter('all')}
+              className={cn(
+                "px-4 py-2 rounded-full text-sm font-medium transition-all",
+                currentFilter === 'all' 
+                  ? "bg-primary text-white" 
+                  : "bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-700"
+              )}
+            >
+              {t('projects.filters.all')}
+            </button>
+            <button
+              onClick={() => setCurrentFilter('frontend')}
+              className={cn(
+                "px-4 py-2 rounded-full text-sm font-medium transition-all",
+                currentFilter === 'frontend' 
+                  ? "bg-primary text-white" 
+                  : "bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-700"
+              )}
+            >
+              {t('projects.filters.frontend')}
+            </button>
+            <button
+              onClick={() => setCurrentFilter('backend')}
+              className={cn(
+                "px-4 py-2 rounded-full text-sm font-medium transition-all",
+                currentFilter === 'backend' 
+                  ? "bg-primary text-white" 
+                  : "bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-700"
+              )}
+            >
+              {t('projects.filters.backend')}
+            </button>
+            <button
+              onClick={() => setCurrentFilter('mobile')}
+              className={cn(
+                "px-4 py-2 rounded-full text-sm font-medium transition-all",
+                currentFilter === 'mobile' 
+                  ? "bg-primary text-white" 
+                  : "bg-gray-200 dark:bg-gray-800 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-700"
+              )}
+            >
+              {t('projects.filters.mobile')}
+            </button>
+          </div>
+        </motion.div>
+        
+        {/* Laboratory-themed background elements */}
+        <div className="absolute inset-0 -z-10 overflow-hidden">
+          <div className="absolute top-1/4 -left-10 w-64 h-64 bg-primary/5 rounded-full blur-3xl" />
+          <div className="absolute bottom-1/4 right-0 w-80 h-80 bg-secondary/5 rounded-full blur-3xl" />
+        </div>
+        
+        {/* Project cards grid */}
+        <motion.div 
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true, margin: "-100px" }}
+        >
+          {filteredProjects.map((project) => (
+            <motion.div
+              key={project.id}
+              variants={itemVariants}
+              whileHover={{ 
+                y: -10,
+                transition: { duration: 0.2 }
+              }}
+              className="bg-white dark:bg-gray-800 rounded-xl overflow-hidden shadow-lg hover:shadow-xl transition-all duration-300"
+              ref={containerRef}
+              onMouseMove={handleMouseMove}
+              onClick={() => setSelectedProject(project)}
+            >
+              {/* Project card */}
+              <motion.div
+                style={{
+                  rotateX: rotateX,
+                  rotateY: rotateY,
+                  transformStyle: "preserve-3d"
+                }}
+              >
+                {/* Project image with gradient overlay */}
+                <div className="relative h-48 overflow-hidden">
+                  <div className={cn(
+                    "absolute inset-0 opacity-80",
+                    getGradient(project.technologies)
+                  )} />
+                  <img 
+                    src={project.screenshots[0]} 
+                    alt={project.title[language as keyof typeof project.title]} 
+                    className="w-full h-full object-cover"
+                  />
+                  
+                  {/* Technologies floating over image */}
+                  <div className="absolute bottom-3 left-3 flex flex-wrap gap-1">
+                    {project.technologies.slice(0, 3).map((tech, index) => (
+                      <span 
+                        key={index}
+                        className="px-2 py-1 bg-white/90 dark:bg-gray-900/90 rounded text-xs font-medium backdrop-blur-sm"
+                      >
+                        {tech}
+                      </span>
+                    ))}
+                    {project.technologies.length > 3 && (
+                      <span className="px-2 py-1 bg-white/90 dark:bg-gray-900/90 rounded text-xs font-medium backdrop-blur-sm">
+                        +{project.technologies.length - 3}
+                      </span>
+                    )}
+                  </div>
+                </div>
+                
+                {/* Project info */}
+                <div className="p-5">
+                  <h3 className="text-xl font-bold mb-2">
+                    {project.title[language as keyof typeof project.title]}
+                  </h3>
+                  <p className="text-gray-600 dark:text-gray-400 text-sm mb-4">
+                    {project.description[language as keyof typeof project.description]}
+                  </p>
+                  
+                  {/* Links */}
+                  <div className="flex justify-between items-center">
+                    <button 
+                      className="text-primary hover:text-primary/80 flex items-center gap-1 text-sm font-medium"
+                    >
+                      {t('projects.viewDetails')}
+                      <ChevronRight size={16} />
+                    </button>
+                    
+                    <div className="flex gap-2">
+                      {project.repositoryUrl && (
+                        <a 
+                          href={project.repositoryUrl} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="p-2 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
+                        >
+                          <Github size={16} />
+                        </a>
+                      )}
+                      {project.liveUrl && (
+                        <a 
+                          href={project.liveUrl} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="p-2 rounded-full bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
+                        >
+                          <ExternalLink size={16} />
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              </motion.div>
+            </motion.div>
+          ))}
+        </motion.div>
+        
+        {/* Project detail modal */}
+        <AnimatePresence>
+          {selectedProject && (
+            <motion.div
+              className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm"
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              onClick={() => setSelectedProject(null)}
+            >
+              <motion.div 
+                className="bg-white dark:bg-gray-800 rounded-xl max-w-4xl w-full max-h-[90vh] overflow-y-auto shadow-2xl"
+                initial={{ scale: 0.9, opacity: 0 }}
+                animate={{ scale: 1, opacity: 1 }}
+                exit={{ scale: 0.9, opacity: 0 }}
+                onClick={(e) => e.stopPropagation()}
+              >
+                <div className="relative">
+                  {/* Images carousel */}
+                  <div className="relative h-72 md:h-96 overflow-hidden">
+                    <AnimatePresence mode="wait">
+                      <motion.img 
+                        key={selectedImageIndex}
+                        src={selectedProject.screenshots[selectedImageIndex]} 
+                        alt={`Screenshot ${selectedImageIndex + 1}`}
+                        className="w-full h-full object-cover"
+                        initial={{ opacity: 0, x: 100 }}
+                        animate={{ opacity: 1, x: 0 }}
+                        exit={{ opacity: 0, x: -100 }}
+                        transition={{ duration: 0.3 }}
+                      />
+                    </AnimatePresence>
+                    
+                    {/* Image navigation */}
+                    {selectedProject.screenshots.length > 1 && (
+                      <>
+                        <button 
+                          className="absolute left-2 top-1/2 -translate-y-1/2 p-2 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-800 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-700 transition-colors backdrop-blur-sm"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            navigateImages('prev');
+                          }}
+                        >
+                          <ChevronLeft size={20} />
+                        </button>
+                        <button 
+                          className="absolute right-2 top-1/2 -translate-y-1/2 p-2 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-800 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-700 transition-colors backdrop-blur-sm"
+                          onClick={(e) => {
+                            e.stopPropagation();
+                            navigateImages('next');
+                          }}
+                        >
+                          <ChevronRight size={20} />
+                        </button>
+                      </>
+                    )}
+                    
+                    {/* Image indicators */}
+                    {selectedProject.screenshots.length > 1 && (
+                      <div className="absolute bottom-4 left-0 right-0 flex justify-center gap-1">
+                        {selectedProject.screenshots.map((_, index) => (
+                          <button
+                            key={index}
+                            className={cn(
+                              "w-2 h-2 rounded-full transition-all",
+                              index === selectedImageIndex 
+                                ? "bg-white w-4" 
+                                : "bg-white/50 hover:bg-white/80"
+                            )}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              setSelectedImageIndex(index);
+                            }}
+                          />
+                        ))}
+                      </div>
+                    )}
+                    
+                    {/* Project navigation */}
+                    <div className="absolute top-4 right-4 flex gap-2">
+                      <button 
+                        className="p-2 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-800 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-700 transition-colors backdrop-blur-sm"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          navigateProject('prev');
+                        }}
+                      >
+                        <ChevronLeft size={20} />
+                      </button>
+                      <button 
+                        className="p-2 rounded-full bg-white/80 dark:bg-gray-800/80 text-gray-800 dark:text-gray-200 hover:bg-white dark:hover:bg-gray-700 transition-colors backdrop-blur-sm"
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          navigateProject('next');
+                        }}
+                      >
+                        <ChevronRight size={20} />
+                      </button>
+                    </div>
+                  </div>
+                  
+                  {/* Project info */}
+                  <div className="p-6">
+                    <h2 className="text-2xl font-bold mb-2">
+                      {selectedProject.title[language as keyof typeof selectedProject.title]}
+                    </h2>
+                    
+                    <div className="flex flex-wrap gap-1 mb-6">
+                      {selectedProject.technologies.map((tech, index) => (
+                        <span 
+                          key={index}
+                          className="px-2 py-1 bg-primary/10 dark:bg-primary/20 rounded-full text-xs font-medium"
+                        >
+                          {tech}
+                        </span>
+                      ))}
+                    </div>
+                    
+                    <p className="text-gray-600 dark:text-gray-400 mb-6">
+                      {selectedProject.description[language as keyof typeof selectedProject.description]}
+                    </p>
+                    
+                    {/* Problem-Solution-Impact boxes */}
+                    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
+                      <div className="p-4 bg-red-50 dark:bg-red-900/20 rounded-lg border border-red-100 dark:border-red-800/20">
+                        <h3 className="font-bold text-red-700 dark:text-red-400 mb-2">
+                          {t('projects.challenge')}
+                        </h3>
+                        <p className="text-sm text-gray-700 dark:text-gray-300">
+                          {selectedProject.challenge[language as keyof typeof selectedProject.challenge]}
+                        </p>
+                      </div>
+                      
+                      <div className="p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg border border-blue-100 dark:border-blue-800/20">
+                        <h3 className="font-bold text-blue-700 dark:text-blue-400 mb-2">
+                          {t('projects.solution')}
+                        </h3>
+                        <p className="text-sm text-gray-700 dark:text-gray-300">
+                          {selectedProject.solution[language as keyof typeof selectedProject.solution]}
+                        </p>
+                      </div>
+                      
+                      <div className="p-4 bg-green-50 dark:bg-green-900/20 rounded-lg border border-green-100 dark:border-green-800/20">
+                        <h3 className="font-bold text-green-700 dark:text-green-400 mb-2">
+                          {t('projects.impact')}
+                        </h3>
+                        <p className="text-sm text-gray-700 dark:text-gray-300">
+                          {selectedProject.impact[language as keyof typeof selectedProject.impact]}
+                        </p>
+                      </div>
+                    </div>
+                    
+                    {/* Links */}
+                    <div className="flex flex-wrap gap-4">
+                      {selectedProject.repositoryUrl && (
+                        <a 
+                          href={selectedProject.repositoryUrl} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 rounded-lg text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors"
+                        >
+                          <Github size={18} />
+                          {t('projects.viewCode')}
+                        </a>
+                      )}
+                      {selectedProject.liveUrl && (
+                        <a 
+                          href={selectedProject.liveUrl} 
+                          target="_blank" 
+                          rel="noopener noreferrer"
+                          className="flex items-center gap-2 px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors"
+                        >
+                          <ExternalLink size={18} />
+                          {t('projects.liveSite')}
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                </div>
+              </motion.div>
+            </motion.div>
+          )}
+        </AnimatePresence>
+      </div>
+    </section>
+  );
+};
+
+export default ProjectsSection;
+import { useState, useRef } from 'react';
+import { motion, useInView, Variants } from 'framer-motion';
+import { useLanguage } from '../../hooks/useLanguage';
+import { useTheme } from '../../context/ThemeContext';
+import { Code, Server, PaintBucket, Database, Settings, Wrench, Globe, Monitor, Layers, 
+         Container, Network, CloudCog, Cpu } from 'lucide-react';
+import { cn } from '../../utils/cn';
+
+// Define types for skills data
+interface Skill {
+  name: string;
+  level: number; // 1-5
+  icon?: React.ReactNode;
+  category: 'frontend' | 'backend' | 'mobile' | 'devops' | 'other';
+  years: number;
+}
+
+interface SkillCategory {
+  id: string;
+  title: {
+    en: string;
+    fr: string;
+  };
+  icon: React.ReactNode;
+  color: string;
+}
+
+// Sample skills data
+const skills: Skill[] = [
+  // Frontend
+  { name: 'React', level: 5, icon: <Code />, category: 'frontend', years: 3 },
+  { name: 'TypeScript', level: 4, icon: <Code />, category: 'frontend', years: 2 },
+  { name: 'JavaScript', level: 5, icon: <Code />, category: 'frontend', years: 4 },
+  { name: 'HTML/CSS', level: 5, icon: <PaintBucket />, category: 'frontend', years: 4 },
+  { name: 'Tailwind CSS', level: 4, icon: <PaintBucket />, category: 'frontend', years: 2 },
+  { name: 'Redux', level: 4, icon: <Layers />, category: 'frontend', years: 2 },
+  
+  // Backend
+  { name: 'Django', level: 5, icon: <Server />, category: 'backend', years: 3 },
+  { name: 'Python', level: 4, icon: <Code />, category: 'backend', years: 3 },
+  { name: 'PostgreSQL', level: 4, icon: <Database />, category: 'backend', years: 3 },
+  { name: 'MySQL', level: 3, icon: <Database />, category: 'backend', years: 2 },
+  { name: 'REST API', level: 5, icon: <Globe />, category: 'backend', years: 3 },
+  { name: 'SQLite', level: 4, icon: <Database />, category: 'backend', years: 3 },
+  
+  // Mobile
+  { name: 'Flutter', level: 4, icon: <Monitor />, category: 'mobile', years: 2 },
+  { name: 'Dart', level: 4, icon: <Code />, category: 'mobile', years: 2 },
+  
+  // DevOps
+  { name: 'Docker', level: 3, icon: <Container />, category: 'devops', years: 1 },
+  { name: 'Docker Compose', level: 3, icon: <Layers />, category: 'devops', years: 1 },
+  { name: 'CI/CD', level: 3, icon: <Settings />, category: 'devops', years: 1 },
+  { name: 'GitHub Actions', level: 3, icon: <Settings />, category: 'devops', years: 1 },
+  
+  // Other
+  { name: 'Network Configuration', level: 4, icon: <Network />, category: 'other', years: 3 },
+  { name: 'Access Control Systems', level: 4, icon: <Wrench />, category: 'other', years: 3 },
+  { name: 'Video Surveillance', level: 3, icon: <Monitor />, category: 'other', years: 3 },
+];
+
+// Skill categories
+const categories: SkillCategory[] = [
+  { 
+    id: 'frontend', 
+    title: { en: 'Frontend Development', fr: 'Développement Frontend' },
+    icon: <Monitor />,
+    color: 'bg-blue-500'
+  },
+  { 
+    id: 'backend', 
+    title: { en: 'Backend Development', fr: 'Développement Backend' },
+    icon: <Server />,
+    color: 'bg-green-500'
+  },
+  { 
+    id: 'mobile', 
+    title: { en: 'Mobile Development', fr: 'Développement Mobile' },
+    icon: <Cpu />,
+    color: 'bg-purple-500'
+  },
+  { 
+    id: 'devops', 
+    title: { en: 'DevOps & Infrastructure', fr: 'DevOps & Infrastructure' },
+    icon: <CloudCog />,
+    color: 'bg-orange-500'
+  },
+  { 
+    id: 'other', 
+    title: { en: 'Networks & Security', fr: 'Réseaux & Sécurité' },
+    icon: <Network />,
+    color: 'bg-gray-500'
+  }
+];
+
+// Learning skills
+const learningSkills = [
+  { name: 'Next.js', progress: 70 },
+  { name: 'AWS', progress: 40 },
+  { name: 'React Native', progress: 30 },
+  { name: 'GraphQL', progress: 50 }
+];
+
+const SkillsSection: React.FC = () => {
+  const { t, language } = useLanguage();
+  const { theme } = useTheme();
+  const [activeCategory, setActiveCategory] = useState<string>('all');
+  const [hoveredSkill, setHoveredSkill] = useState<string | null>(null);
+  const ref = useRef<HTMLDivElement>(null);
+  const isInView = useInView(ref, { once: true, amount: 0.2 });
+  
+  // Filter skills based on active category
+  const filteredSkills = activeCategory === 'all'
+    ? skills
+    : skills.filter(skill => skill.category === activeCategory);
+    
+  // Sort skills by level
+  const sortedSkills = [...filteredSkills].sort((a, b) => b.level - a.level);
+  
+  // Animation variants
+  const containerVariants: Variants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.05
+      }
+    }
+  };
+  
+  const itemVariants: Variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { 
+      opacity: 1, 
+      y: 0,
+      transition: { duration: 0.5 }
+    }
+  };
+  
+  const barVariants: Variants = {
+    hidden: { width: 0 },
+    visible: (level) => ({ 
+      width: `${level * 20}%`,
+      transition: { duration: 1, delay: 0.3 }
+    })
+  };
+  
+  return (
+    <section id="skills" className="py-20 relative overflow-hidden">
+      {/* Background decoration */}
+      <div className="absolute inset-0 -z-10">
+        <div className="absolute top-40 -left-20 w-64 h-64 bg-blue-500/5 dark:bg-blue-500/10 rounded-full blur-3xl"></div>
+        <div className="absolute bottom-40 -right-20 w-80 h-80 bg-purple-500/5 dark:bg-purple-500/10 rounded-full blur-3xl"></div>
+        
+        {/* Tech pattern background */}
+        <div className="absolute inset-0 opacity-5 pointer-events-none">
+          <div className="h-full w-full" style={{
+            backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M30 5L40 20L30 35L20 20L30 5z' fill='%23000000' fill-opacity='0.1'/%3E%3C/svg%3E")`,
+            backgroundSize: '60px 60px'
+          }} />
+        </div>
+      </div>
+      
+      <div className="container mx-auto px-4">
+        <motion.div 
+          className="text-center mb-16"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">{t('skills.title')}</h2>
+          <p className="text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
+            {t('skills.subtitle')}
+          </p>
+        </motion.div>
+        
+        {/* Skill Categories */}
+        <div className="flex flex-wrap justify-center gap-4 mb-16">
+          <button
+            onClick={() => setActiveCategory('all')}
+            className={cn(
+              "px-4 py-2 rounded-lg flex items-center gap-2 transition-all",
+              activeCategory === 'all' 
+                ? "bg-primary text-white shadow-md" 
+                : "bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700"
+            )}
+          >
+            <Layers size={18} />
+            {t('skills.categories.all')}
+          </button>
+          
+          {categories.map((category) => (
+            <button
+              key={category.id}
+              onClick={() => setActiveCategory(category.id)}
+              className={cn(
+                "px-4 py-2 rounded-lg flex items-center gap-2 transition-all",
+                activeCategory === category.id 
+                  ? `${theme === 'dark' ? 'bg-opacity-80' : ''} ${category.color.replace('bg-', 'bg-')} text-white shadow-md` 
+                  : "bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 hover:bg-gray-200 dark:hover:bg-gray-700"
+              )}
+            >
+              {category.icon}
+              {category.title[language as keyof typeof category.title]}
+            </button>
+          ))}
+        </div>
+        
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12" ref={ref}>
+          {/* Skills Visualization */}
+          <motion.div
+            variants={containerVariants}
+            initial="hidden"
+            animate={isInView ? "visible" : "hidden"}
+            className="space-y-4"
+          >
+            {sortedSkills.map((skill) => (
+              <motion.div 
+                key={skill.name}
+                variants={itemVariants}
+                onMouseEnter={() => setHoveredSkill(skill.name)}
+                onMouseLeave={() => setHoveredSkill(null)}
+                className={cn(
+                  "relative p-4 rounded-lg transition-all",
+                  hoveredSkill === skill.name 
+                    ? "bg-gray-100 dark:bg-gray-800 shadow-md" 
+                    : "bg-transparent"
+                )}
+              >
+                <div className="flex items-center justify-between mb-2">
+                  <div className="flex items-center gap-2">
+                    <div className={cn(
+                      "p-1.5 rounded-md",
+                      skill.category === 'frontend' ? 'bg-blue-100 dark:bg-blue-900/30 text-blue-500' : 
+                      skill.category === 'backend' ? 'bg-green-100 dark:bg-green-900/30 text-green-500' :
+                      skill.category === 'mobile' ? 'bg-purple-100 dark:bg-purple-900/30 text-purple-500' :
+                      skill.category === 'devops' ? 'bg-orange-100 dark:bg-orange-900/30 text-orange-500' :
+                      'bg-gray-100 dark:bg-gray-800 text-gray-500'
+                    )}>
+                      {skill.icon}
+                    </div>
+                    <span className="font-medium">{skill.name}</span>
+                  </div>
+                  <span className="text-sm text-gray-500 dark:text-gray-400">
+                    {skill.years} {skill.years === 1 ? t('skills.year') : t('skills.years')}
+                  </span>
+                </div>
+                
+                <div className="h-2 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                  <motion.div
+                    custom={skill.level}
+                    variants={barVariants}
+                    className={cn(
+                      "h-full rounded-full",
+                      skill.category === 'frontend' ? 'bg-blue-500' : 
+                      skill.category === 'backend' ? 'bg-green-500' :
+                      skill.category === 'mobile' ? 'bg-purple-500' :
+                      skill.category === 'devops' ? 'bg-orange-500' :
+                      'bg-gray-500'
+                    )}
+                  ></motion.div>
+                </div>
+                
+                {/* Skill level indicators */}
+                <div className="flex justify-between mt-1 px-0">
+                  {[1, 2, 3, 4, 5].map((level) => (
+                    <div key={level} className="flex flex-col items-center">
+                      <div 
+                        className={cn(
+                          "w-1 h-1 rounded-full",
+                          level <= skill.level 
+                            ? skill.category === 'frontend' ? 'bg-blue-500' : 
+                              skill.category === 'backend' ? 'bg-green-500' :
+                              skill.category === 'mobile' ? 'bg-purple-500' :
+                              skill.category === 'devops' ? 'bg-orange-500' :
+                              'bg-gray-500' 
+                            : 'bg-gray-300 dark:bg-gray-600'
+                        )}
+                      ></div>
+                    </div>
+                  ))}
+                </div>
+                
+                {/* Skill details on hover */}
+                {hoveredSkill === skill.name && (
+                  <motion.div 
+                    initial={{ opacity: 0, y: 10 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="absolute top-full left-0 mt-2 p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg z-10 w-full"
+                  >
+                    <div className="text-sm">
+                      <div className="font-medium mb-1">{t('skills.details.expertise')}</div>
+                      <div className="text-gray-600 dark:text-gray-400">
+                        {skill.level === 5 ? t('skills.details.expert') : 
+                         skill.level === 4 ? t('skills.details.advanced') :
+                         skill.level === 3 ? t('skills.details.intermediate') :
+                         t('skills.details.beginner')}
+                      </div>
+                    </div>
+                  </motion.div>
+                )}
+              </motion.div>
+            ))}
+          </motion.div>
+          
+          {/* Tech Tree Visualization and Learning Skills */}
+          <div className="flex flex-col gap-8">
+            {/* Tech Tree Visualization - Lab Themed */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.2 }}
+              className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg"
+            >
+              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+                <Layers className="text-primary" size={20} />
+                {t('skills.techTree.title')}
+              </h3>
+              
+              <div className="relative">
+                {/* Base of the tree */}
+                <div className="relative flex justify-center mb-4">
+                  <div className="absolute left-1/2 top-full -ml-1 w-2 h-32 bg-primary/20 dark:bg-primary/30"></div>
+                  <motion.div 
+                    initial={{ scale: 0 }}
+                    whileInView={{ scale: 1 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.5, delay: 0.3 }}
+                    className="relative z-10 p-4 rounded-full bg-primary/10 dark:bg-primary/20 border-2 border-primary"
+                  >
+                    <div className="w-16 h-16 flex items-center justify-center">
+                      <Code size={32} className="text-primary" />
+                    </div>
+                  </motion.div>
+                </div>
+                
+                {/* Branches */}
+                <div className="grid grid-cols-3 gap-4 pt-32">
+                  {/* Frontend Branch */}
+                  <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.5, delay: 0.5 }}
+                    className="flex flex-col items-center"
+                  >
+                    <div className="absolute top-24 left-[calc(16.67%+1rem)] w-20 h-1 bg-blue-500/50 transform -rotate-45"></div>
+                    <div className="w-12 h-12 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center text-blue-500">
+                      <Monitor size={24} />
+                    </div>
+                    <p className="mt-2 text-sm font-medium">Frontend</p>
+                    <div className="h-20 w-px bg-blue-500/30 my-2"></div>
+                    <div className="grid grid-cols-2 gap-2">
+                      {skills.filter(s => s.category === 'frontend').slice(0, 4).map((skill, i) => (
+                        <motion.div 
+                          key={skill.name}
+                          initial={{ opacity: 0, scale: 0 }}
+                          whileInView={{ opacity: 1, scale: 1 }}
+                          viewport={{ once: true }}
+                          transition={{ duration: 0.3, delay: 0.7 + (i * 0.1) }}
+                          className="w-8 h-8 rounded-full bg-blue-50 dark:bg-blue-900/20 flex items-center justify-center text-blue-500 text-xs"
+                        >
+                          {skill.name.slice(0, 2)}
+                        </motion.div>
+                      ))}
+                    </div>
+                  </motion.div>
+                  
+                  {/* Backend Branch */}
+                  <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.5, delay: 0.6 }}
+                    className="flex flex-col items-center"
+                  >
+                    <div className="absolute top-24 left-1/2 w-1 h-10 bg-green-500/50"></div>
+                    <div className="w-12 h-12 rounded-full bg-green-100 dark:bg-green-900/30 flex items-center justify-center text-green-500">
+                      <Server size={24} />
+                    </div>
+                    <p className="mt-2 text-sm font-medium">Backend</p>
+                    <div className="h-20 w-px bg-green-500/30 my-2"></div>
+                    <div className="grid grid-cols-2 gap-2">
+                      {skills.filter(s => s.category === 'backend').slice(0, 4).map((skill, i) => (
+                        <motion.div 
+                          key={skill.name}
+                          initial={{ opacity: 0, scale: 0 }}
+                          whileInView={{ opacity: 1, scale: 1 }}
+                          viewport={{ once: true }}
+                          transition={{ duration: 0.3, delay: 0.8 + (i * 0.1) }}
+                          className="w-8 h-8 rounded-full bg-green-50 dark:bg-green-900/20 flex items-center justify-center text-green-500 text-xs"
+                        >
+                          {skill.name.slice(0, 2)}
+                        </motion.div>
+                      ))}
+                    </div>
+                  </motion.div>
+                  
+                  {/* Mobile Branch */}
+                  <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    whileInView={{ opacity: 1, y: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.5, delay: 0.7 }}
+                    className="flex flex-col items-center"
+                  >
+                    <div className="absolute top-24 left-[calc(83.33%-1rem)] w-20 h-1 bg-purple-500/50 transform rotate-45"></div>
+                    <div className="w-12 h-12 rounded-full bg-purple-100 dark:bg-purple-900/30 flex items-center justify-center text-purple-500">
+                      <Cpu size={24} />
+                    </div>
+                    <p className="mt-2 text-sm font-medium">Mobile</p>
+                    <div className="h-20 w-px bg-purple-500/30 my-2"></div>
+                    <div className="grid grid-cols-2 gap-2">
+                      {skills.filter(s => s.category === 'mobile').map((skill, i) => (
+                        <motion.div 
+                          key={skill.name}
+                          initial={{ opacity: 0, scale: 0 }}
+                          whileInView={{ opacity: 1, scale: 1 }}
+                          viewport={{ once: true }}
+                          transition={{ duration: 0.3, delay: 0.9 + (i * 0.1) }}
+                          className="w-8 h-8 rounded-full bg-purple-50 dark:bg-purple-900/20 flex items-center justify-center text-purple-500 text-xs"
+                        >
+                          {skill.name.slice(0, 2)}
+                        </motion.div>
+                      ))}
+                    </div>
+                  </motion.div>
+                </div>
+              </div>
+            </motion.div>
+            
+            {/* Learning & Growth */}
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.5, delay: 0.4 }}
+              className="bg-white dark:bg-gray-800 rounded-xl p-6 shadow-lg"
+            >
+              <h3 className="text-xl font-bold mb-4 flex items-center gap-2">
+                <Settings className="text-primary" size={20} />
+                {t('skills.learning.title')}
+              </h3>
+              
+              <p className="text-gray-600 dark:text-gray-400 mb-6">
+                {t('skills.learning.subtitle')}
+              </p>
+              
+              <div className="space-y-6">
+                {learningSkills.map((skill, index) => (
+                  <motion.div 
+                    key={skill.name}
+                    initial={{ opacity: 0, x: -20 }}
+                    whileInView={{ opacity: 1, x: 0 }}
+                    viewport={{ once: true }}
+                    transition={{ duration: 0.4, delay: 0.5 + (index * 0.1) }}
+                    className="space-y-2"
+                  >
+                    <div className="flex justify-between">
+                      <span className="font-medium">{skill.name}</span>
+                      <span className="text-sm text-gray-500 dark:text-gray-400">
+                        {skill.progress}%
+                      </span>
+                    </div>
+                    
+                    <div className="h-2 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden">
+                      <motion.div
+                        initial={{ width: 0 }}
+                        whileInView={{ width: `${skill.progress}%` }}
+                        viewport={{ once: true }}
+                        transition={{ duration: 1, delay: 0.7 + (index * 0.1) }}
+                        className="h-full bg-gradient-to-r from-blue-500 to-primary rounded-full"
+                      ></motion.div>
+                    </div>
+                  </motion.div>
+                ))}
+              </div>
+            </motion.div>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default SkillsSection;
+import { motion } from 'framer-motion';
+import { useTranslation } from 'react-i18next';
+
+const LoadingScreen = () => {
+  const { t } = useTranslation();
+  
+  return (
+    <div className="fixed inset-0 bg-white dark:bg-gray-900 z-50 flex flex-col items-center justify-center">
+      <div className="relative">
+        {/* Lab flask icon with animated liquid */}
+        <svg 
+          width="80" 
+          height="80" 
+          viewBox="0 0 24 24" 
+          fill="none" 
+          xmlns="http://www.w3.org/2000/svg"
+          className="text-primary"
+        >
+          <path 
+            d="M9 3H15M10 3V7.53481C10 8.24584 9.785 8.93907 9.38873 9.49896L5.08873 15.5989C4.3582 16.6162 4 17.8301 4 19.073V19.5C4 20.8807 5.11929 22 6.5 22H17.5C18.8807 22 20 20.8807 20 19.5V19.073C20 17.8301 19.6418 16.6162 18.9113 15.5989L14.6113 9.49896C14.215 8.93907 14 8.24584 14 7.53481V3" 
+            stroke="currentColor" 
+            strokeWidth="2" 
+            strokeLinecap="round" 
+            strokeLinejoin="round"
+          />
+          <motion.path
+            d="M6 17H18"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            initial={{ pathLength: 0, pathOffset: 0 }}
+            animate={{ 
+              pathLength: 1, 
+              pathOffset: 1,
+              transition: { 
+                duration: 1.5, 
+                repeat: Infinity, 
+                ease: "easeInOut" 
+              }
+            }}
+          />
+        </svg>
+        
+        {/* Pulsing circle behind the flask */}
+        <motion.div 
+          className="absolute inset-0 rounded-full bg-primary/20"
+          initial={{ scale: 0.8, opacity: 0.5 }}
+          animate={{ 
+            scale: [0.8, 1.2, 0.8],
+            opacity: [0.5, 0.2, 0.5],
+          }}
+          transition={{ 
+            duration: 2, 
+            repeat: Infinity,
+            ease: "easeInOut" 
+          }}
+        />
+      </div>
+      
+      <motion.div 
+        className="mt-8 text-center"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.5 }}
+      >
+        <h1 className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-2">
+          Fotso.dev
+        </h1>
+        <p className="text-gray-600 dark:text-gray-400">
+          {t('loading')}...
+        </p>
+      </motion.div>
+      
+      {/* Loading progress bar */}
+      <motion.div 
+        className="w-48 h-1 bg-gray-200 dark:bg-gray-700 rounded-full mt-4 overflow-hidden"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.7 }}
+      >
+        <motion.div 
+          className="h-full bg-gradient-to-r from-primary to-secondary"
+          initial={{ width: "0%" }}
+          animate={{ width: "100%" }}
+          transition={{ 
+            duration: 1.5, 
+            ease: "easeInOut" 
+          }}
+        />
+      </motion.div>
+    </div>
+  );
+};
+
+export default LoadingScreen;
+import { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+
+/**
+ * Component that automatically scrolls to the top when route changes
+ * Can also handle scrolling to hash fragments
+ */
+const ScrollToTop = () => {
+  const { pathname, hash } = useLocation();
+
+  useEffect(() => {
+    // If there's a hash in the URL, scroll to the element with that ID
+    if (hash) {
+      // Give time for the DOM to fully render
+      setTimeout(() => {
+        const element = document.getElementById(hash.substring(1));
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 100);
+    } else {
+      // Otherwise, scroll to the top of the page
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  }, [pathname, hash]);
+
+  return null; // This component doesn't render anything
+};
+
+export default ScrollToTop;
+import { createContext, useContext, useEffect, useState, useCallback } from "react";
+import { useTranslation } from "react-i18next";
+import { useNavigate, useLocation } from "react-router-dom";
+
+type Language = "en" | "fr";
+
+type LanguageProviderProps = {
+  children: React.ReactNode;
+  defaultLanguage?: Language;
+  storageKey?: string;
+  updateURLPath?: boolean;
+};
+
+type LanguageProviderState = {
+  language: Language;
+  setLanguage: (language: Language) => void;
+  isLanguageLoading: boolean;
+};
+
+const initialState: LanguageProviderState = {
+  language: "en",
+  setLanguage: () => null,
+  isLanguageLoading: true,
+};
+
+const LanguageProviderContext = createContext<LanguageProviderState>(initialState);
+
+export function LanguageProvider({
+  children,
+  defaultLanguage = "en",
+  storageKey = "portfolio-language",
+  updateURLPath = true,
+  ...props
+}: LanguageProviderProps) {
+  const { i18n } = useTranslation();
+  const navigate = useNavigate();
+  const location = useLocation();
+  const [isLanguageLoading, setIsLanguageLoading] = useState(true);
+  
+  // Initialize language from URL, localStorage, or browser
+  const [language, setLanguageState] = useState<Language>(() => {
+    // Check URL path first
+    const pathLang = location.pathname.split('/')[1];
+    if (pathLang === 'fr' || pathLang === 'en') {
+      return pathLang as Language;
+    }
+    
+    // Then check localStorage
+    const storedLang = localStorage.getItem(storageKey) as Language;
+    if (storedLang === 'en' || storedLang === 'fr') {
+      return storedLang;
+    }
+    
+    // Finally check browser language
+    const browserLang = navigator.language.split('-')[0];
+    if (browserLang === 'fr') return 'fr';
+    
+    // Default fallback
+    return defaultLanguage;
+  });
+  
+  // Handle language change with proper URL updates
+  const setLanguage = useCallback((newLanguage: Language) => {
+    setLanguageState(newLanguage);
+  }, []);
+  
+  // Update i18n instance and URL on language change
+  useEffect(() => {
+    const updateLanguage = async () => {
+      setIsLanguageLoading(true);
+      
+      // Change i18n language
+      await i18n.changeLanguage(language);
+      
+      // Save to localStorage
+      localStorage.setItem(storageKey, language);
+      
+      // Update URL if enabled
+      if (updateURLPath) {
+        const currentPath = location.pathname;
+        const currentSearch = location.search;
+        const currentHash = location.hash;
+        
+        // Get path without language prefix
+        let pathWithoutLang = currentPath;
+        const pathSegments = currentPath.split('/').filter(Boolean);
+        
+        if (pathSegments[0] === 'en' || pathSegments[0] === 'fr') {
+          // Remove language segment
+          pathSegments.shift();
+          pathWithoutLang = pathSegments.length ? `/${pathSegments.join('/')}` : '/';
+        }
+        
+        // Create new path with current language
+        const newPath = language === defaultLanguage 
+          ? pathWithoutLang // Default language doesn't need prefix
+          : `/${language}${pathWithoutLang === '/' ? '' : pathWithoutLang}`;
+        
+        const fullPath = `${newPath}${currentSearch}${currentHash}`;
+        
+        if (fullPath !== `${currentPath}${currentSearch}${currentHash}`) {
+          navigate(fullPath, { replace: true });
+        }
+      }
+      
+      setIsLanguageLoading(false);
+    };
+    
+    updateLanguage();
+  }, [language, i18n, navigate, location, storageKey, updateURLPath, defaultLanguage]);
+  
+  return (
+    <LanguageProviderContext.Provider
+      {...props}
+      value={{ language, setLanguage, isLanguageLoading }}
+    >
+      {children}
+    </LanguageProviderContext.Provider>
+  );
+}
+
+export const useLanguageContext = () => {
+  const context = useContext(LanguageProviderContext);
+  if (context === undefined)
+    throw new Error("useLanguageContext must be used within a LanguageProvider");
+  return context;
+};
+import { createContext, useContext, useEffect, useState } from "react";
+
+type Theme = "dark" | "light" | "system";
+
+type ThemeProviderProps = {
+  children: React.ReactNode;
+  defaultTheme?: Theme;
+  storageKey?: string;
+};
+
+type ThemeProviderState = {
+  theme: Theme;
+  setTheme: (theme: Theme) => void;
+};
+
+const initialState: ThemeProviderState = {
+  theme: "system",
+  setTheme: () => null,
+};
+
+const ThemeProviderContext = createContext<ThemeProviderState>(initialState);
+
+export function ThemeProvider({
+  children,
+  defaultTheme = "system",
+  storageKey = "portfolio-theme",
+  ...props
+}: ThemeProviderProps) {
+  const [theme, setTheme] = useState<Theme>(
+    () => (localStorage.getItem(storageKey) as Theme) || defaultTheme
+  );
+
+  useEffect(() => {
+    const root = window.document.documentElement;
+    
+    root.classList.remove("light", "dark");
+    
+    if (theme === "system") {
+      const systemTheme = window.matchMedia("(prefers-color-scheme: dark)")
+        .matches
+        ? "dark"
+        : "light";
+
+      root.classList.add(systemTheme);
+      return;
+    }
+
+    root.classList.add(theme);
+  }, [theme]);
+
+  const value = {
+    theme,
+    setTheme: (theme: Theme) => {
+      localStorage.setItem(storageKey, theme);
+      setTheme(theme);
+    },
+  };
+
+  return (
+    <ThemeProviderContext.Provider {...props} value={value}>
+      {children}
+    </ThemeProviderContext.Provider>
+  );
+}
+
+export const useTheme = () => {
+  const context = useContext(ThemeProviderContext);
+
+  if (context === undefined)
+    throw new Error("useTheme must be used within a ThemeProvider");
+
+  return context;
+};
+import { useTranslation } from "react-i18next";
+import { useLanguageContext } from "../context/LanguageContext";
+import { useCallback } from "react";
+
+export const useLanguage = () => {
+  const { t, i18n } = useTranslation();
+  const { language, setLanguage } = useLanguageContext();
+  
+  // Toggle between supported languages
+  const toggleLanguage = useCallback(() => {
+    const newLanguage = language === "en" ? "fr" : "en";
+    setLanguage(newLanguage);
+    i18n.changeLanguage(newLanguage);
+    localStorage.setItem("language", newLanguage);
+  }, [language, setLanguage, i18n]);
+  
+  // Change to a specific language
+  const changeLanguage = useCallback((lang: string) => {
+    if (lang === "en" || lang === "fr") {
+      setLanguage(lang);
+      i18n.changeLanguage(lang);
+      localStorage.setItem("language", lang);
+    } else {
+      console.warn(`Language ${lang} is not supported.`);
+    }
+  }, [setLanguage, i18n]);
+  
+  // Format date according to current language
+  const formatDate = useCallback((date: Date): string => {
+    const options: Intl.DateTimeFormatOptions = { 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric' 
+    };
+    
+    return date.toLocaleDateString(
+      language === 'fr' ? 'fr-FR' : 'en-US', 
+      options
+    );
+  }, [language]);
+  
+  return {
+    language,
+    setLanguage,
+    toggleLanguage,
+    changeLanguage,
+    formatDate,
+    t,
+    i18n
+  };
+};
+import i18n from 'i18next';
+import { initReactI18next } from 'react-i18next';
+import LanguageDetector from 'i18next-browser-languagedetector';
+
+import enTranslations from './en.json';
+import frTranslations from './fr.json';
+
+i18n
+  // detect user language
+  .use(LanguageDetector)
+  // pass the i18n instance to react-i18next
+  .use(initReactI18next)
+  // init i18next
+  .init({
+    resources: {
+      en: {
+        translation: enTranslations
+      },
+      fr: {
+        translation: frTranslations
+      }
+    },
+    fallbackLng: 'en',
+    debug: false, // Set to true during development
+    interpolation: {
+      escapeValue: false // React already safes from XSS
+    },
+    detection: {
+      order: ['path', 'localStorage', 'navigator'],
+      lookupFromPathIndex: 0
+    }
+  });
+
+export default i18n;
+
+import { useRef, useState, useEffect } from 'react';
+import { motion, useScroll, useSpring } from 'framer-motion';
+import { ArrowUp } from 'lucide-react';
+import { useTranslation } from 'react-i18next';
+import HeroSection from '../components/sections/HeroSection';
+import AboutSection from '../components/sections/AboutSection';
+import SkillsSection from '../components/sections/SkillsSection';
+import ProjectsSection from '../components/sections/ProjectsSection';
+import ExperienceSection from '../components/sections/ExperienceSection';
+import EducationSection from '../components/sections/EducationSection';
+import ContactSection from '../components/sections/ContactSection';
+import Header from '../components/layout/Header';
+import Footer from '../components/layout/Footer';
+import { cn } from '../utils/cn';
+
+const HomePage = () => {
+  const { t } = useTranslation();
+  const sectionsRef = useRef<HTMLDivElement>(null);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const [activeSection, setActiveSection] = useState<string>('home');
+  const [isLoading, setIsLoading] = useState(true);
+  
+  // Scrolling progress for the progress bar
+  const { scrollYProgress } = useScroll();
+  const scaleX = useSpring(scrollYProgress, {
+    stiffness: 100,
+    damping: 30,
+    restDelta: 0.001
+  });
+  
+  // Handle scroll to top button visibility
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 500) {
+        setShowScrollTop(true);
+      } else {
+        setShowScrollTop(false);
+      }
+    };
+    
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  // Observer for active section highlighting
+  useEffect(() => {
+    const observerOptions = {
+      root: null,
+      rootMargin: '-20% 0px -80% 0px',
+      threshold: 0
+    };
+
+    const handleIntersect = (entries: IntersectionObserverEntry[]) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const id = entry.target.getAttribute('id');
+          if (id) setActiveSection(id);
+        }
+      });
+    };
+
+    const observer = new IntersectionObserver(handleIntersect, observerOptions);
+    
+    // Observer all sections
+    const sections = document.querySelectorAll('section[id]');
+    sections.forEach(section => {
+      observer.observe(section);
+    });
+    
+    return () => observer.disconnect();
+  }, []);
+  
+  // Simulate loading state for smooth entrance
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 800);
+    
+    return () => clearTimeout(timer);
+  }, []);
+  
+  // Scroll to top function
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  };
+  
+  // Handle routing to hash sections
+  useEffect(() => {
+    if (window.location.hash) {
+      const id = window.location.hash.replace('#', '');
+      const element = document.getElementById(id);
+      if (element) {
+        setTimeout(() => {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }, 100);
+      }
+    }
+  }, []);
+  
+  if (isLoading) {
+    return (
+      <div className="fixed inset-0 flex items-center justify-center bg-white dark:bg-gray-900 z-50">
+        <div className="relative">
+          <div className="h-16 w-16 rounded-full border-4 border-primary border-t-transparent animate-spin"></div>
+          <div className="mt-4 text-center text-primary font-medium">
+            {t('loading')}...
+          </div>
+        </div>
+      </div>
+    );
+  }
+  
+  return (
+    <>
+      {/* Header with navigation */}
+      <Header activeSection={activeSection} />
+      
+      {/* Progress bar */}
+      <motion.div 
+        className="fixed top-0 left-0 right-0 h-1 bg-primary origin-left z-50"
+        style={{ scaleX }}
+      />
+      
+      {/* Main content */}
+      <motion.div
+        ref={sectionsRef}
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        exit={{ opacity: 0 }}
+        transition={{ duration: 0.5 }}
+        className="min-h-screen bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300"
+      >
+        <main>
+          <HeroSection />
+          <AboutSection />
+          <SkillsSection />
+          <ProjectsSection />
+          <ExperienceSection />
+          <EducationSection />
+          <ContactSection />
+        </main>
+        
+        <Footer />
+      </motion.div>
+      
+      {/* Scroll to top button */}
+      <motion.button
+        onClick={scrollToTop}
+        initial={{ opacity: 0, scale: 0.5 }}
+        animate={{ 
+          opacity: showScrollTop ? 1 : 0, 
+          scale: showScrollTop ? 1 : 0.5
+        }}
+        transition={{ duration: 0.3 }}
+        className={cn(
+          "fixed bottom-8 right-8 p-3 rounded-full",
+          "bg-primary text-white shadow-md hover:bg-primary/90",
+          "transition-all duration-300 z-40",
+          "focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 dark:focus:ring-offset-gray-900"
+        )}
+        aria-label="Scroll to top"
+      >
+        <ArrowUp size={24} />
+      </motion.button>
+    </>
+  );
+};
+
+export default HomePage;
+import { useTranslation } from 'react-i18next';
+import { Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
+import { useLanguage } from '../hooks/useLanguage';
+
+const NotFoundPage = () => {
+  const { t } = useTranslation();
+  const { language } = useLanguage();
+
+  return (
+    <motion.div
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.5 }}
+      className="flex flex-col items-center justify-center min-h-[80vh] text-center px-4"
+    >
+      <h1 className="text-6xl md:text-8xl font-bold text-primary">404</h1>
+      <h2 className="text-2xl md:text-3xl font-bold mt-4 mb-2">{t('notFound.title')}</h2>
+      <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 max-w-md">
+        {t('notFound.subtitle')}
+      </p>
+      <Link
+        to={`/${language}`}
+        className="px-6 py-3 bg-primary text-white rounded-lg font-medium hover:bg-primary/90 transition-colors"
+      >
+        {t('notFound.action')}
+      </Link>
+    </motion.div>
+  );
+};
+
+export default NotFoundPage;
+import { useEffect, useState } from 'react';
+import { Routes, Route, useLocation } from 'react-router-dom';
+import { useTranslation } from 'react-i18next';
+import { AnimatePresence } from 'framer-motion';
+import { useTheme } from './context/ThemeContext';
+import { useLanguage } from './hooks/useLanguage';
+import ScrollToTop from './components/utils/ScrollToTop';
+import HomePage from './pages/HomePage';
+import NotFoundPage from './pages/NotFoundPage';
+import LoadingScreen from './components/utils/LoadingScreen';
+
+function App() {
+  const { i18n } = useTranslation();
+  const { language, changeLanguage } = useLanguage();
+  const { theme } = useTheme();
+  const location = useLocation();
+  const [isLoading, setIsLoading] = useState(true);
+
+  // Extract language from URL and set it if needed
+  useEffect(() => {
+    const pathSegments = location.pathname.split('/').filter(Boolean);
+    const langInUrl = pathSegments[0];
+    
+    if ((langInUrl === 'fr' || langInUrl === 'en') && langInUrl !== language) {
+      changeLanguage(langInUrl);
+    }
+  }, [location.pathname, language, changeLanguage]);
+
+  // Update document metadata based on current language
+  useEffect(() => {
+    // Update the page title
+    document.title = i18n.t('site.title');
+    
+    // Set meta description
+    const metaDescription = document.querySelector('meta[name="description"]');
+    if (metaDescription) {
+      metaDescription.setAttribute('content', i18n.t('site.description'));
+    } else {
+      const newMeta = document.createElement('meta');
+      newMeta.name = 'description';
+      newMeta.content = i18n.t('site.description');
+      document.head.appendChild(newMeta);
+    }
+    
+    // Set the document language attribute for accessibility
+    document.documentElement.lang = language;
+    
+    // Add a data-language attribute to the html element for CSS targeting
+    document.documentElement.setAttribute('data-language', language);
+  }, [language, i18n]);
+
+  // Handle theme changes
+  useEffect(() => {
+    if (theme === 'dark') {
+      document.documentElement.classList.add('dark');
+    } else {
+      document.documentElement.classList.remove('dark');
+    }
+    
+    // Add a data-theme attribute for CSS targeting
+    document.documentElement.setAttribute('data-theme', theme);
+  }, [theme]);
+
+  // Simulate initial loading
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setIsLoading(false);
+    }, 1500);
+    
+    return () => clearTimeout(timer);
+  }, []);
+
+  // Preload important assets
+  useEffect(() => {
+    // Preload any critical images or resources
+    const criticalImages = [
+      '/logo.png', 
+      '/background-pattern.svg'
+    ];
+    
+    criticalImages.forEach(src => {
+      const img = new Image();
+      img.src = src;
+    });
+  }, []);
+
+  if (isLoading) {
+    return <LoadingScreen />;
+  }
+
+  return (
+    <div className="flex flex-col min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 transition-colors duration-300">
+      {/* Route change scroll handling */}
+      <ScrollToTop />
+      
+      {/* Toast notifications system */}
+     
+      
+      <main className="flex-grow relative">
+        <AnimatePresence mode="wait">
+          <Routes location={location} key={location.pathname}>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/:lang" element={<HomePage />} />
+            <Route path="*" element={<NotFoundPage />} />
+          </Routes>
+        </AnimatePresence>
+      </main>
+    </div>
+  );
+}
+
+export default App;

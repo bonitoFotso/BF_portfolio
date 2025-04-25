@@ -1,0 +1,173 @@
+{
+  "site": {
+    "title": "Fotso Fotso Mossi Bonito | Développeur Web & Mobile",
+    "description": "Développeur full-stack spécialisé en React, TypeScript, Flutter et Django. Découvrez mes projets et compétences."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "education": "Formation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Fotso Fotso Mossi Bonito",
+    "greeting": "Bonjour, je suis",
+    "title": "Développeur Full-stack",
+    "subtitle": "Spécialisé dans la création de solutions web et mobiles innovantes avec React, TypeScript, Flutter et Django. Basé à Douala, Cameroun.",
+    "scrollDown": "Explorer",
+    "cta": {
+      "projects": "Voir mes projets",
+      "contact": "Me contacter"
+    },
+    "switchMode": "Changer de mode d'affichage",
+    "terminalAbout": "Développeur full-stack passionné par la création de solutions numériques innovantes. Spécialisé en React, Flutter et Django avec plus de 3 ans d'expérience professionnelle.",
+    "interactive": {
+      "title": "Que souhaitez-vous découvrir ?",
+      "viewProjects": "Voir mes projets",
+      "projectsDesc": "Découvrez mes réalisations récentes",
+      "skills": "Compétences techniques",
+      "skillsDesc": "Technologies et méthodologies que je maîtrise",
+      "about": "À propos de moi",
+      "aboutDesc": "Mon parcours et mon histoire professionnelle",
+      "contact": "Discutons",
+      "contactDesc": "Comment me contacter pour collaborer"
+    }
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Apprenez à me connaître",
+    "intro": "Je suis Fotso Fotso Mossi Bonito, un développeur web et mobile passionné, avec une forte orientation vers la création de solutions élégantes et efficaces pour des problèmes complexes.",
+    "background": "Mon parcours dans la technologie a commencé avec mes études en Informatique Industrielle et Automatisme à l'EST La Salle, suivies d'une Licence en Génie Logiciel à l'IUT de Douala. Avec une expérience dans plusieurs domaines, notamment la gestion de réseaux, les systèmes de contrôle d'accès et le développement web/mobile, j'apporte une perspective polyvalente à chaque projet.",
+    "philosophy": "Je crois en la création de logiciels qui non seulement fonctionnent parfaitement, mais offrent également des expériences utilisateur exceptionnelles. Mon approche combine précision technique et résolution créative de problèmes pour construire des solutions qui résistent à l'épreuve du temps.",
+    "conclusion": "Alors que je continue à évoluer professionnellement, je reste déterminé à élargir mes connaissances et compétences tout en aidant les entreprises et organisations à atteindre leurs objectifs grâce à des solutions technologiques innovantes.",
+    "personal_quote": "La technologie devrait simplifier la vie, pas la compliquer. Je m'efforce de créer des solutions qui font une réelle différence.",
+    "profile_alt": "Fotso Fotso Mossi Bonito",
+    "journey": {
+      "education": "Parcours éducatif",
+      "professional": "Philosophie professionnelle"
+    },
+    "metrics": {
+      "years": "Ans d'expérience",
+      "projects": "Projets réalisés",
+      "clients": "Clients satisfaits"
+    },
+    "bio": {
+      "part1": "Je suis Fotso Fotso Mossi Bonito, un développeur web et mobile passionné, avec une forte orientation vers la création de solutions élégantes et efficaces pour des problèmes complexes.",
+      "part2": "Mon parcours dans la technologie a commencé avec mes études en Informatique Industrielle et Automatisme à l'EST La Salle, suivies d'une Licence en Génie Logiciel à l'IUT de Douala.",
+      "part3": "Avec une expérience dans plusieurs domaines, notamment la gestion de réseaux, les systèmes de contrôle d'accès et le développement web/mobile, j'apporte une perspective polyvalente à chaque projet."
+    },
+    "values": {
+      "title": "Mes valeurs professionnelles",
+      "continuous_learning": "Apprentissage continu",
+      "continuous_learning_desc": "J'élargis constamment mes connaissances et compétences pour rester à la pointe de la technologie.",
+      "problem_solving": "Résolution de problèmes",
+      "problem_solving_desc": "Je trouve des solutions élégantes à des problèmes complexes grâce à la créativité et à une analyse approfondie.",
+      "attention_to_detail": "Attention aux détails",
+      "attention_to_detail_desc": "Je me concentre sur les plus petits détails pour garantir des produits finaux de haute qualité.",
+      "collaboration": "Collaboration",
+      "collaboration_desc": "Je travaille efficacement en équipe pour atteindre des objectifs communs et créer de meilleurs résultats."
+    }
+  },
+  "skills": {
+    "title": "Compétences techniques",
+    "subtitle": "Un aperçu complet de mon expertise technologique et de mes capacités professionnelles.",
+    "categories": {
+      "all": "Toutes les compétences",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "devops": "DevOps & CI/CD",
+      "other": "Réseaux & Sécurité"
+    },
+    "year": "an",
+    "years": "ans",
+    "details": {
+      "expertise": "Niveau d'expertise",
+      "expert": "Expert - Connaissance avancée avec des années d'expérience",
+      "advanced": "Avancé - Forte compréhension et implémentation efficace",
+      "intermediate": "Intermédiaire - Bonne connaissance pratique et expérience",
+      "beginner": "Débutant - Compréhension et implémentation de base"
+    },
+    "techTree": {
+      "title": "Mon écosystème de compétences"
+    },
+    "learning": {
+      "title": "En cours d'apprentissage",
+      "subtitle": "Je crois en la croissance continue. Voici quelques technologies et compétences que je développe actuellement."
+    }
+  },
+  "experience": {
+    "title": "Expérience professionnelle",
+    "subtitle": "Mon parcours à travers différents rôles professionnels et projets qui ont façonné mon expertise.",
+    "present": "Actuel",
+    "year": "an",
+    "years": "ans",
+    "month": "mois",
+    "months": "mois",
+    "keyAchievements": "Réalisations clés"
+  },
+  "education": {
+    "title": "Formation",
+    "subtitle": "Mon parcours académique et mon apprentissage continu.",
+    "achievements": "Réalisations",
+    "additionalCertifications": "Certifications complémentaires",
+    "certifications": {
+      "programming": "Fondamentaux du développement web",
+      "network": "Systèmes de réseaux et sécurité"
+    }
+  },
+  "projects": {
+    "title": "Projets en vedette",
+    "subtitle": "Voici quelques projets notables sur lesquels j'ai travaillé qui démontrent mes compétences techniques et mon approche de résolution de problèmes.",
+    "filters": {
+      "all": "Tous les projets",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile"
+    },
+    "viewDetails": "Voir détails",
+    "challenge": "Défi",
+    "solution": "Solution",
+    "impact": "Impact",
+    "viewCode": "Voir le code",
+    "liveSite": "Démo en ligne"
+  },
+  "contact": {
+    "title": "Me contacter",
+    "subtitle": "Je suis toujours ouvert à de nouvelles opportunités et collaborations. N'hésitez pas à me contacter !",
+    "getInTouch": "Coordonnées",
+    "sendMessage": "Envoyez-moi un message",
+    "email": "Email",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "socialMedia": "Réseaux sociaux",
+    "downloadCV": "Télécharger mon CV",
+    "form": {
+      "name": "Votre nom",
+      "email": "Votre email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "successMessage": "Votre message a été envoyé avec succès. Je vous répondrai bientôt !",
+      "errorMessage": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard."
+    },
+    "errors": {
+      "nameRequired": "Veuillez entrer votre nom",
+      "emailRequired": "Veuillez entrer votre email",
+      "emailInvalid": "Veuillez entrer une adresse email valide",
+      "subjectRequired": "Veuillez entrer un sujet",
+      "messageRequired": "Veuillez entrer votre message",
+      "messageLength": "Votre message doit contenir au moins 20 caractères"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Fotso Fotso Mossi Bonito. Tous droits réservés.",
+    "madeWith": "Créé avec",
+    "usingTech": "en utilisant React, TypeScript & Tailwind",
+    "backToTop": "Retour en haut"
+  }
+}
